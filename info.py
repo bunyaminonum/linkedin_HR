@@ -60,43 +60,6 @@ class GetInfo(GetProfileLinks):
             except NoSuchElementException:
                 location = None
 
-            # try:
-            experience = soup.findAll('ul')
-            print(experience[1])
-            # print(experience)
-            # li_tags = experience.find('div')
-            # a_tags = li_tags.find("a")
-            # job_title = a_tags.find("h3").get_text().strip()
-            #
-            # print(job_title)
-            #
-            # company_name = a_tags.find_all("p")[1].get_text().strip()
-            # print(company_name)
-            #
-            # joining_date = a_tags.find_all("h4")[0].find_all("span")[1].get_text().strip()
-            #
-            # employment_duration = a_tags.find_all("h4")[1].find_all(
-            #     "span")[1].get_text().strip()
-            #
-            # print(joining_date + ", " + employment_duration)
-            # except:
-            #     experience = None
-            #extracting the number of connection
-            # try:
-            #     num_connection = self.driver.find_element_by_xpath(self.NUM_CONNECTION_PATH).text
-            # except:
-            #     num_connection = None
-            #extracting the language
-            # try:
-            #     language = self.driver.find_element_by_xpath(self.LANGUAGE_PATH).text
-            #
-            # except:
-            #     pass
-            # language = soup.findAll('div', {'class':'pvs-list__item--no-padding-when-nested'})
-            # infoList = list
-            # for i in language:
-            #     print(i.get_text())
-
 
             print("Name -->", name,
                   "\nWorks At -->", works_at,
