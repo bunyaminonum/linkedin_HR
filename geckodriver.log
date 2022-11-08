@@ -1,0 +1,1397 @@
+1667889832852	geckodriver	INFO	Listening on 127.0.0.1:58060
+1667889835894	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofilekIj1GJ"
+1667889836449	Marionette	INFO	Marionette enabled
+1667889836457	Marionette	INFO	Listening on port 58072
+Read port: 58072
+1667889837102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofilekIj1GJ\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+1667889953613	geckodriver	INFO	Listening on 127.0.0.1:58971
+1667889956629	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofile34dske"
+1667889957005	Marionette	INFO	Marionette enabled
+1667889957011	Marionette	INFO	Listening on port 58983
+Read port: 58983
+1667889957359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofile34dske\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1667890074980	geckodriver	INFO	Listening on 127.0.0.1:59005
+1667890078004	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofile5fuAuk"
+1667890078329	Marionette	INFO	Marionette enabled
+1667890078333	Marionette	INFO	Listening on port 59017
+Read port: 59017
+1667890078678	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofile5fuAuk\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1667890101937	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1667890108289	Marionette	INFO	Stopped listening on port 59017
+1667890114017	geckodriver	INFO	Listening on 127.0.0.1:59028
+1667890117034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofile3dNM3w"
+1667890117360	Marionette	INFO	Marionette enabled
+1667890117365	Marionette	INFO	Listening on port 59040
+Read port: 59040
+1667890117721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofile3dNM3w\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1667890141007	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1667890167484	Marionette	INFO	Stopped listening on port 59040
+1667890185615	geckodriver	INFO	Listening on 127.0.0.1:50255
+1667890188636	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofile5lyUaw"
+1667890188972	Marionette	INFO	Marionette enabled
+1667890188977	Marionette	INFO	Listening on port 50267
+Read port: 50267
+1667890189375	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofile5lyUaw\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+1667890200350	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+1667890205764	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+1667890236039	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1667890250248	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HZrunHRjvTX5MIeL6Ibl7iJKqMmAAzHWmbkaKM7M3x0.js line 2 > eval line 2839 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HZrunHRjvTX5MIeL6Ibl7iJKqMmAAzHWmbkaKM7M3x0.js line 2 > eval line 7173 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2351))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal10737418248/domwalker21, type watchRootNode failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:48:19\nmodule.exports@resource://devtools/shared/commands/resource/legacy-listeners/root-node.js:60:31\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal10737418249/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:48:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:561:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: , line 0: uncaught exception: Timeout
+JavaScript error: , line 0: uncaught exception: Timeout
+JavaScript error: , line 0: uncaught exception: Timeout
+console.error: "stylesheets: fetch failed for https://static-exp1.licdn.com/sc/h/31q5rh95zv81667910388281	Marionette	INFO	Stopped listening on port 51226
+[Parent 3016, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ead."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/40pn186lrq9zga8pwsaut5h8s, line 6756: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1667900238418	Marionette	INFO	Stopped listening on port 50267
+[Parent 10300, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 10300, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 10300, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 10300, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 10300, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+le code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+1667891067000	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+1667891070050	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/yBpsGyrbw-0ekNfFbDofVV3UtCeaMQwd_FuZQ5DuPuw.js line 2 > eval line 5476 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450980/domwalker21, type watchRootNode failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:48:19\nmodule.exports@resource://devtools/shared/commands/resource/legacy-listeners/root-node.js:60:31\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450984/layout23, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:48:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:448:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 3500: TypeError: data.frameData.id is null
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450989/layout23, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:48:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:448:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 3500: TypeError: data.frameData.id is null
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal6442450997/layout23, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:48:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:448:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: "Unable to find target with innerWindowId:6442451007"
+console.error: "Unable to find target with innerWindowId:6442451007"
+console.error: "Unable to find target with innerWindowId:6442451007"
+console.error: "Unable to find target with innerWindowId:6442451007"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1667912774102	Marionette	INFO	Stopped listening on port 52099
+16551	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileo5GRHq\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://static-exp1.licdn.com/sc/h/84fsvbnejofjftbd78cli46vs, line 3736: Error: You attempted to mount the engine 'msg-overlay', but it is not registered with its parent.
+[Parent 22336, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+[Child 18348, MediaDecoderStateMachine #1] WARNING: Decoder=1c84225b400 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:370
+[Child 18348, MediaDecoderStateMachine #1] WARNING: Decoder=1c84225b400 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+1667912250413	Marionette	INFO	Stopped listening on port 54811
+7899328358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileioX07m"
+1667899328646	Marionette	INFO	Marionette enabled
+1667899328650	Marionette	INFO	Listening on port 55721
+Read port: 55721
+1667899328735	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileioX07m\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static-exp1.licdn.com/sc/h/84fsvbnejofjftbd78cli46vs, line 3736: Error: You attempted to mount the engine 'msg-overlay', but it is not registered with its parent.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+1667899857828	Marionette	INFO	Stopped listening on port 55721
+1667899858202	geckodriver	INFO	Listening on 127.0.0.1:56226
+1667899861246	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileHRjc7t"
+1667899861560	Marionette	INFO	Marionette enabled
+1667899861563	Marionette	INFO	Listening on port 56238
+Read port: 56238
+1667899861655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileHRjc7t\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+1667899899784	Marionette	INFO	Stopped listening on port 56238
+1667899901352	geckodriver	INFO	Listening on 127.0.0.1:56603
+1667899904379	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileQOrU9B"
+1667899904631	Marionette	INFO	Marionette enabled
+1667899904635	Marionette	INFO	Listening on port 56615
+Read port: 56615
+1667899904833	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileQOrU9B\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://static-exp1.licdn.com/sc/h/84fsvbnejofjftbd78cli46vs, line 3736: Error: You attempted to mount the engine 'msg-overlay', but it is not registered with its parent.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+1667900236968	Marionette	INFO	Stopped listening on port 56615
+1667900993893	geckodriver	INFO	Listening on 127.0.0.1:57358
+1667900996922	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileTFDOQI"
+1667900997277	Marionette	INFO	Marionette enabled
+1667900997282	Marionette	INFO	Listening on port 57370
+Read port: 57370
+1667900997601	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileTFDOQI\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://static-exp1.licdn.com/sc/h/84fsvbnejofjftbd78cli46vs, line 3736: Error: You attempted to mount the engine 'msg-overlay', but it is not registered with its parent.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1667901465737	Marionette	INFO	Stopped listening on port 57370
+ errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileGJCbGf\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript error: https://static-exp1.licdn.com/sc/h/84fsvbnejofjftbd78cli46vs, line 3736: Error: You attempted to mount the engine 'msg-overlay', but it is not registered with its parent.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+1667901909486	Marionette	INFO	Stopped listening on port 58142
+[Parent 16116, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667904859933	geckodriver	INFO	Listening on 127.0.0.1:54641
+1667904862966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileC4DTG3"
+1667904863375	Marionette	INFO	Marionette enabled
+1667904863380	Marionette	INFO	Listening on port 54655
+Read port: 54655
+1667904863788	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileC4DTG3\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/loxr1hopmkgj2zepfurp1ahj, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/loxr1hopmkgj2zepfurp1ahj, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+1667904871720	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, 1667905101676	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofile13G8UM"
+1667905102032	Marionette	INFO	Marionette enabled
+1667905102036	Marionette	INFO	Listening on port 55130
+Read port: 55130
+1667905102378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofile13G8UM\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+1667906384090	Marionette	INFO	Stopped listening on port 55130
+7906382686	geckodriver	INFO	Listening on 127.0.0.1:56340
+1667906385750	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileVrn8fp"
+1667906386190	Marionette	INFO	Marionette enabled
+1667906386195	Marionette	INFO	Listening on port 56352
+Read port: 56352
+1667906386698	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileVrn8fp\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+1667907952728	geckodriver	INFO	Listening on 127.0.0.1:53752
+1667907955800	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofile71Jg7V"
+1667907956209	Marionette	INFO	Marionette enabled
+1667907956213	Marionette	INFO	Listening on port 53764
+Read port: 53764
+1667907956676	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofile71Jg7V\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1667908026873	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1667908026874	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1667908084106	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1667908084107	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+1667908202866	geckodriver	INFO	Listening on 127.0.0.1:54162
+1667908205885	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileBh8EuD"
+1667908206272	Marionette	INFO	Marionette enabled
+1667908206276	Marionette	INFO	Listening on port 54174
+Read port: 54174
+1667908206621	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileBh8EuD\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1667908640482	Marionette	INFO	Stopped listening on port 54174
+[Parent 5816, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+emote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofile3tAERV"
+1667908401739	Marionette	INFO	Marionette enabled
+1667908401743	Marionette	INFO	Listening on port 54520
+Read port: 54520
+1667908401837	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofile3tAERV\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+1667908409095	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+1667908441647	geckodriver	INFO	Listening on 127.0.0.1:54751
+1667908444729	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileJMQtAW"
+1667908444999	Marionette	INFO	Marionette enabled
+1667908445003	Marionette	INFO	Listening on port 54763
+Read port: 54763
+1667908445104	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileJMQtAW\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+1667908525571	geckodriver	INFO	Listening on 127.0.0.1:55049
+1667908528627	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileMY9xil"
+1667908528889	Marionette	INFO	Marionette enabled
+1667908528894	Marionette	INFO	Listening on port 55065
+Read port: 55065
+1667908529016	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileMY9xil\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+1667908540476	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+1667908543626	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+1667908585837	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1667908585837	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1667908637977	geckodriver	INFO	Listening on 127.0.0.1:55386
+1667908641009	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofile6F9YWW"
+1667908641408	Marionette	INFO	Marionette enabled
+1667908641412	Marionette	INFO	Listening on port 55399
+Read port: 55399
+1667908641800	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofile6F9YWW\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+1667908706765	geckodriver	INFO	Listening on 127.0.0.1:55679
+1667908709791	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileR1hnTI"
+1667908710102	Marionette	INFO	Marionette enabled
+1667908710106	Marionette	INFO	Listening on port 55691
+Read port: 55691
+1667908710671	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileR1hnTI\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+1667908818618	geckodriver	INFO	Listening on 127.0.0.1:55962
+1667908821665	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofilehqNxUy"
+1667908822068	Marionette	INFO	Marionette enabled
+1667908822074	Marionette	INFO	Listening on port 55974
+Read port: 55974
+1667908822528	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofilehqNxUy\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+1667908912221	geckodriver	INFO	Listening on 127.0.0.1:56243
+1667908915250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileWeBqUw"
+1667908915640	Marionette	INFO	Marionette enabled
+1667908915644	Marionette	INFO	Listening on port 56255
+Read port: 56255
+1667908916018	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileWeBqUw\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+1667908923473	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+1667909561375	geckodriver	INFO	Listening on 127.0.0.1:56615
+1667909564417	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileqAuYzg"
+1667909564783	Marionette	INFO	Marionette enabled
+1667909564787	Marionette	INFO	Listening on port 56627
+Read port: 56627
+1667909565151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileqAuYzg\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+1667909577124	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+1667910321291	geckodriver	INFO	Listening on 127.0.0.1:57070
+1667910324328	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofilemqvgzB"
+1667910324592	Marionette	INFO	Marionette enabled
+1667910324597	Marionette	INFO	Listening on port 57082
+Read port: 57082
+1667910324700	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofilemqvgzB\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+1667910363279	geckodriver	INFO	Listening on 127.0.0.1:57355
+1667910366304	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofile8wjJQP"
+1667910366572	Marionette	INFO	Marionette enabled
+1667910366575	Marionette	INFO	Listening on port 57368
+Read port: 57368
+1667910366773	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofile8wjJQP\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+1667910380037	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1667910417931	geckodriver	INFO	Listening on 127.0.0.1:57562
+1667910420964	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofilecIG4nX"
+1667910421220	Marionette	INFO	Marionette enabled
+1667910421224	Marionette	INFO	Listening on port 57574
+Read port: 57574
+1667910421408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofilecIG4nX\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+1667910464692	geckodriver	INFO	Listening on 127.0.0.1:57793
+1667910467731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileAPiWCe"
+1667910467981	Marionette	INFO	Marionette enabled
+1667910467984	Marionette	INFO	Listening on port 57805
+Read port: 57805
+1667910468174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileAPiWCe\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+1667910481802	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HZrunHRjvTX5MIeL6Ibl7iJKqMmAAzHWmbkaKM7M3x0.js line 2 > eval line 4149 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofile8mLCSB"
+1667910850196	Marionette	INFO	Marionette enabled
+1667910850199	Marionette	INFO	Listening on port 58216
+Read port: 58216
+1667910850393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofile8mLCSB\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1667911063814	geckodriver	INFO	Listening on 127.0.0.1:58460
+1667911066854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileYUuUAF"
+1667911067115	Marionette	INFO	Marionette enabled
+1667911067119	Marionette	INFO	Listening on port 58472
+Read port: 58472
+1667911067325	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileYUuUAF\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+1667911075504	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+1667911079118	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1667912246004	Marionette	INFO	Stopped listening on port 58472
+[Parent 14296, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ (void 0)))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+1667911308341	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/HZrunHRjvTX5MIeL6Ibl7iJKqMmAAzHWmbkaKM7M3x0.js line 2 > eval line 6768 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667912246553	Marionette	INFO	Stopped listening on port 58706
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+emp\\rust_mozprofileoUDHbC"
+1667911419742	Marionette	INFO	Marionette enabled
+1667911419746	Marionette	INFO	Listening on port 58970
+Read port: 58970
+1667911419894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileoUDHbC\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+1667912247124	Marionette	INFO	Stopped listening on port 58970
+7911488465	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofilee6ScdC"
+1667911488725	Marionette	INFO	Marionette enabled
+1667911488728	Marionette	INFO	Listening on port 59185
+Read port: 59185
+1667911488917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofilee6ScdC\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+1667911582106	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1667911609134	geckodriver	INFO	Listening on 127.0.0.1:59488
+1667911612195	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileFlV0NA"
+1667911612465	Marionette	INFO	Marionette enabled
+1667911612469	Marionette	INFO	Listening on port 59500
+Read port: 59500
+1667911612629	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileFlV0NA\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+1667912247666	Marionette	INFO	Stopped listening on port 59500
+1667912395055	geckodriver	INFO	Listening on 127.0.0.1:59775
+1667912398104	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofile4TZeOg"
+1667912398365	Marionette	INFO	Marionette enabled
+1667912398369	Marionette	INFO	Listening on port 59787
+Read port: 59787
+1667912398530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofile4TZeOg\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+1667912622166	geckodriver	INFO	Listening on 127.0.0.1:60146
+1667912625212	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileHybuBm"
+1667912625518	Marionette	INFO	Marionette enabled
+1667912625522	Marionette	INFO	Listening on port 60158
+Read port: 60158
+1667912625616	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileHybuBm\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+1667912768042	geckodriver	INFO	Listening on 127.0.0.1:60427
+1667912771072	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofilevSyk48"
+1667912771329	Marionette	INFO	Marionette enabled
+1667912771333	Marionette	INFO	Listening on port 60439
+Read port: 60439
+1667912771532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofilevSyk48\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5x551rv91h1545imm4yjueanc, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2exueafaasbahobfc7h7eo4l7, line 19049: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dip3q9gs8ee23pa34lajl5g9d, line 2466: unreachable code after return statement
