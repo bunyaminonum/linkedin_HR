@@ -9,6 +9,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException
 from connect_database import MDB
 import pymongo
+
 class Person:
     def __init__(self):
         self.infoList = {}
@@ -27,6 +28,8 @@ class Person:
 
     def setLink(self, link:dict):
         self.infoList.update(link)
+
+
 
 class GetInfo(GetProfileLinks):
     GRADUATE_XPATH = '/html/body/div[5]/div[3]/div/div/div/div[2]/div/div/main/section[4]/div[3]/ul/li/div/div[2]/div/a/span[2]/span[1]'
