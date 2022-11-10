@@ -8,7 +8,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException
 from connect_database import MDB
-
+import pymongo
 class Person:
     def __init__(self):
         self.infoList = {}
@@ -26,7 +26,7 @@ class Person:
         self.infoList.update(_id)
 
     def setLink(self, link:dict):
-        self.infoList.update(dict)
+        self.infoList.update(link)
 
 class GetInfo(GetProfileLinks):
     GRADUATE_XPATH = '/html/body/div[5]/div[3]/div/div/div/div[2]/div/div/main/section[4]/div[3]/ul/li/div/div[2]/div/a/span[2]/span[1]'
@@ -47,55 +47,62 @@ class GetInfo(GetProfileLinks):
         pass
 
     def getLink(self):
+        try:
+            for (link, _id) in zip(self.linklist,range(1,len(self.linklist)+1)):
 
-        for (link, _id) in zip(self.linklist,range(1,len(self.linklist)+1)):
-            self.driver.get(link)
-            time.sleep(2)
-            # graduate = self.driver.find_element_by_xpath(self.GRADUATE_XPATH)
-            self.person.setId({'_id':_id})
-            src = self.driver.page_source
+                self.driver.get(link)
+                time.sleep(2)
+                # graduate = self.driver.find_element_by_xpath(self.GRADUATE_XPATH)
+                # self.chechkID({'_id',_id})
+                self.person.setId({'_id':_id})
+                src = self.driver.page_source
 
-            # Now using beautiful soup
-            soup = BeautifulSoup(src, 'lxml')
-            intro = soup.find('div', {'class': 'pv-text-details__left-panel'})
-            self.person.setLink({'link':link})
-            try:
-                name_loc = intro.find("h1")
-                name = name_loc.get_text().strip()
-                self.person.setName({'name':name})
-            except:
-                name_loc = None
+                # Now using beautiful soup
+                soup = BeautifulSoup(src, 'lxml')
+                intro = soup.find('div', {'class': 'pv-text-details__left-panel'})
+                self.person.setLink({'link':link})
+                try:
+                    name_loc = intro.find("h1")
+                    name = name_loc.get_text().strip()
+                    self.person.setName({'name':name})
+                except:
+                    name_loc = None
 
-            # strip() is used to remove any extra blank spaces
-            try:
-                works_at_loc = intro.find("div", {'class': 'text-body-medium'})
-                works_at = works_at_loc.get_text().strip()
-                self.person.setWorksAt({'works at' : works_at})
-            except:
-                works_at_loc = None
-            # this gives us the HTML of the tag in which the Company Name is present
-            # Extracting the Company Name
+                # strip() is used to remove any extra blank spaces
+                try:
+                    works_at_loc = intro.find("div", {'class': 'text-body-medium'})
+                    works_at = works_at_loc.get_text().strip()
+                    self.person.setWorksAt({'works at' : works_at})
+                except:
+                    works_at_loc = None
+                # this gives us the HTML of the tag in which the Company Name is present
+                # Extracting the Company Name
 
-            # experience = soup.find('li', {'class':'artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column'}).find('ul')
-            # print(experience)
+                # experience = soup.find('li', {'class':'artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column'}).find('ul')
+                # print(experience)
 
-            # Ectracting the Location
-            try:
-                location = self.driver.find_element_by_xpath(self.LOC_XPATH).text
-                self.person.setLocation({'location' : location})
-            except NoSuchElementException:
-                location = None
+                # Ectracting the Location
+                try:
+                    location = self.driver.find_element_by_xpath(self.LOC_XPATH).text
+                    self.person.setLocation({'location' : location})
+                except NoSuchElementException:
+                    location = None
 
-            self.db.collection.insert_one(self.person.infoList)
+                self.db.collection.insert_one(self.person.infoList)
 
-            print("Name -->", name,
-                  "\nWorks At -->", works_at,
-                  "\nLocation -->", location,
-                    "",'\n')
-                  # "\nnumber of connection -->", num_connection)
+                print("Name -->", name,
+                      "\nWorks At -->", works_at,
+                      "\nLocation -->", location,
+                        "",'\n')
+                      # "\nnumber of connection -->", num_connection)
+        except pymongo.errors.DuplicateKeyError:
+            pass
 
+    def chechkID(self, _id:dict):
+        pass
 
             # print(graduate.text)
+
 p = GetInfo('19701023@mersin.edu.tr', '19074747fb', 2)
 p.start()
 

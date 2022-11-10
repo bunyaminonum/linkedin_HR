@@ -19,7 +19,6 @@ class GetProfileLinks(Login):
             self.setProfile()
         self.removeDuplicateLink()
 
-
     def setProfile(self):
         self.driver.get(self.link)
         src = self.getSource()
@@ -29,7 +28,6 @@ class GetProfileLinks(Login):
             parseLink = link.split('/')
             if 'in' in parseLink:
                 self.linklist.append(link)
-
 
     def getSource(self):
         src = self.driver.page_source
