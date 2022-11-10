@@ -12,7 +12,7 @@ import requests
 class GetInfo(GetProfileLinks):
     GRADUATE_XPATH = '/html/body/div[5]/div[3]/div/div/div/div[2]/div/div/main/section[4]/div[3]/ul/li/div/div[2]/div/a/span[2]/span[1]'
     cssSelector = 'html.theme.theme--mercado.artdeco.windows body.render-mode-BIGPIPE.nav-v2.ember-application.boot-complete.icons-loaded div.application-outlet div.authentication-outlet div#profile-content.extended.tetris.pv-profile-body-wrapper div.body div#ember32.artdeco-tabs.artdeco-tabs--size-t-48.ember-view div.scaffold-layout.scaffold-layout--breakpoint-none.scaffold-layout--main-aside.scaffold-layout--single-column.scaffold-layout--reflow.pv-profile div.scaffold-layout__inner.scaffold-layout-container.scaffold-layout-container--reflow div.scaffold-layout__row.scaffold-layout__content.scaffold-layout__content--main-aside.scaffold-layout__content--has-aside main#main.scaffold-layout__main section#ember86.artdeco-card.ember-view.relative.break-words.pb3.mt2 div.pvs-list__outer-container ul.pvs-list.ph5.display-flex.flex-row.flex-wrap li.artdeco-list__item.pvs-list__item--line-separated.pvs-list__item--one-column div.pvs-entity.pvs-entity--padded.pvs-list__item--no-padding-when-nested div.display-flex.flex-column.full-width.align-self-center div.display-flex.flex-row.justify-space-between a.optional-action-target-wrapper.display-flex.flex-column.full-width'
-
+    cssSelector = ''
     LOC_XPATH = '/html/body/div[5]/div[3]/div/div/div[2]/div/div/main/section[1]/div[2]/div[2]/div[2]/span[1]'
     # LANGUAGE_PATH = '/html/body/div[5]/div[3]/div/div/div[2]/div/div/main/section[8]/div[3]/ul/li/div/div[2]/div'
     NUM_CONNECTION_PATH = '/html/body/div[5]/div[3]/div/div/div[2]/div/div/main/section[2]/div[2]/div/div/div/p/span[1]'
@@ -65,7 +65,7 @@ class GetInfo(GetProfileLinks):
             print("Name -->", name,
                   "\nWorks At -->", works_at,
                   "\nLocation -->", location,
-                    "\nexperience", experience,'\n')
+                    "",'\n')
                   # "\nnumber of connection -->", num_connection)
 
             # print(graduate.text)
