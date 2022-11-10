@@ -15,7 +15,7 @@ class GetProfileLinks(Login):
         self.pageNum = pageNum
         self.linklist = list()
         for num in range(1,pageNum+1):
-            self.link = f'https://www.linkedin.com/search/results/people/?connectionOf=%5B%22ACoAADEYgbwBXbTGqxF53yVEUb-peA9Exk-UO34%22%5D&network=%5B%22F%22%2C%22S%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&page={num}&sid=ix1'
+            self.link = f'https://www.linkedin.com/search/results/people/?connectionOf=%5B%22ACoAAATqPu8BmSX7Z1r428v2N0re0E2zYhvoGGk%22%5D&network=%5B%22F%22%2C%22S%22%5D&origin=MEMBER_PROFILE_CANNED_SEARCH&page={num}&sid=Lj2'
             self.setProfile()
         self.removeDuplicateLink()
 
@@ -29,6 +29,7 @@ class GetProfileLinks(Login):
             parseLink = link.split('/')
             if 'in' in parseLink:
                 self.linklist.append(link)
+
 
     def getSource(self):
         src = self.driver.page_source
