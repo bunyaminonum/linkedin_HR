@@ -24,6 +24,7 @@ class Login:
         self.driver = webdriver.Firefox(executable_path = GeckoDriverManager().install())
 
         self.driver.get(self.link)
+
         self.driver.implicitly_wait(10)
 
         id = self.driver.find_element_by_id('username')

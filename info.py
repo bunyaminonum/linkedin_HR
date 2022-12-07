@@ -40,54 +40,71 @@ class GetInfo(GetProfileLinks):
     def __init__(self, email:str, password:str, pageNum = 1):
         super().__init__(email, password, pageNum)
         self.db = MDB()
-        self.infoList = list
+        self.personInfo = []
         self.person = Person()
-
     def start(self):
         self.getLink()
 
     def getInfo(self):
         pass
 
+    def checkDuplicate(self, _id):
+        info = self.db.collection.find({})
+        for i in info:
+            if i['_id'] == _id:
+                break
+        return _id
+
+    def getLinklistFromDB(self):
+        attr = self.db.collection.find({})
+        for i in attr:
+            self.linkListFromDB.append(i['_id'])
+            
     def getLink(self):
         try:
             for link in self.linklist:
+                linkInfo = self.db.collection.find_one({'_id':link})
+                if link not in self.db.linklistFromDB:
+                    self.driver.get(link)
+                    time.sleep(2)
 
-                self.driver.get(link)
-                time.sleep(2)
+                    self.person.setId({'_id':link})
+                    src = self.driver.page_source
 
-                self.person.setId({'_id':link})
-                src = self.driver.page_source
+                    soup = BeautifulSoup(src, 'lxml')
+                    intro = soup.find('div', {'class': 'pv-text-details__left-panel'})
+                    # self.person.setLink({'link':link})
+                    try:
+                        name_loc = intro.find("h1")
+                        name = name_loc.get_text().strip()
+                        self.person.setName({'name':name})
+                    except:
+                        name_loc = None
 
-                soup = BeautifulSoup(src, 'lxml')
-                intro = soup.find('div', {'class': 'pv-text-details__left-panel'})
-                # self.person.setLink({'link':link})
-                try:
-                    name_loc = intro.find("h1")
-                    name = name_loc.get_text().strip()
-                    self.person.setName({'name':name})
-                except:
-                    name_loc = None
+                    try:
+                        works_at_loc = intro.find("div", {'class': 'text-body-medium'})
+                        works_at = works_at_loc.get_text().strip()
+                        self.person.setWorksAt({'works at' : works_at})
+                    except:
+                        works_at_loc = None
 
-                try:
-                    works_at_loc = intro.find("div", {'class': 'text-body-medium'})
-                    works_at = works_at_loc.get_text().strip()
-                    self.person.setWorksAt({'works at' : works_at})
-                except:
-                    works_at_loc = None
+                    try:
+                        location = self.driver.find_element_by_xpath(self.LOC_XPATH).text
+                        self.person.setLocation({'location' : location})
+                    except NoSuchElementException:
+                        location = None
 
-                try:
-                    location = self.driver.find_element_by_xpath(self.LOC_XPATH).text
-                    self.person.setLocation({'location' : location})
-                except NoSuchElementException:
-                    location = None
+                    # print(self.person.infoList)
+                    self.db.collection.insert_one(self.person.infoList)
 
-                self.db.collection.insert_one(self.person.infoList)
-
-                print("Name -->", name,
-                      "\nWorks At -->", works_at,
-                      "\nLocation -->", location,
-                        "",'\n')
+                    # self.personInfo.append(self.person.infoList)
+                    # print(self.personInfo)
+                    print("Name -->", name,
+                          "\nWorks At -->", works_at,
+                          "\nLocation -->", location,
+                            "",'\n')
+                else:
+                    continue
                       # "\nnumber of connection -->", num_connection)
         except pymongo.errors.DuplicateKeyError:
             print("duplicate error!")
@@ -99,6 +116,6 @@ class GetInfo(GetProfileLinks):
 
             # print(graduate.text)
 
-p = GetInfo('19701023@mersin.edu.tr', '19074747fb', 2)
+p = GetInfo('19701023@mersin.edu.tr', '19074747fb', 4)
 p.start()
 
