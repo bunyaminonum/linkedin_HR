@@ -26,6 +26,8 @@ class Person:
     def setId(self, _id:dict):
         self.infoList.update(_id)
 
+    def setConnectionNum(self, con_num:dict):
+        self.infoList.update(con_num)
     # def setLink(self, link:dict):
     #     self.infoList.update(link)
 
@@ -35,7 +37,7 @@ class GetInfo(GetProfileLinks):
     GRADUATE_XPATH = '/html/body/div[5]/div[3]/div/div/div/div[2]/div/div/main/section[4]/div[3]/ul/li/div/div[2]/div/a/span[2]/span[1]'
     LOC_XPATH = '/html/body/div[5]/div[3]/div/div/div[2]/div/div/main/section[1]/div[2]/div[2]/div[2]/span[1]'
     # LANGUAGE_PATH = '/html/body/div[5]/div[3]/div/div/div[2]/div/div/main/section[8]/div[3]/ul/li/div/div[2]/div'
-    NUM_CONNECTION_PATH = '/html/body/div[5]/div[3]/div/div/div[2]/div/div/main/section[2]/div[2]/div/div/div/p/span[1]'
+    FOLLOWERS = 'pvs-header__subtitle'
     NUM_CONNECTION_PATH2 = '/html/body/div[5]/div[3]/div/div/div[2]/div/div/main/section[1]/div[2]/ul/li/a/span/span'
     def __init__(self, email:str, password:str, pageNum = 1):
         super().__init__(email, password, pageNum)
@@ -94,6 +96,13 @@ class GetInfo(GetProfileLinks):
                     except NoSuchElementException:
                         location = None
 
+                    try:
+                        follow = self.driver.find_element_by_class_name(self.FOLLOWERS).text
+                        parse = float(str(follow).split()[0].strip().replace(',','.'))
+                        self.person.setConnectionNum({'num_connection':parse})
+                    except NoSuchElementException:
+                        follow = None
+
                     # print(self.person.infoList)
                     self.db.collection.insert_one(self.person.infoList)
 
@@ -102,7 +111,8 @@ class GetInfo(GetProfileLinks):
                     print("Name -->", name,
                           "\nWorks At -->", works_at,
                           "\nLocation -->", location,
-                            "",'\n')
+                          "\n num connection", follow,
+                          "\nparse_numconnection", parse)
                 else:
                     continue
                       # "\nnumber of connection -->", num_connection)
@@ -116,6 +126,6 @@ class GetInfo(GetProfileLinks):
 
             # print(graduate.text)
 
-p = GetInfo('19701023@mersin.edu.tr', '19074747fb', 4)
+p = GetInfo('19701023@mersin.edu.tr', '19074747fb', 5)
 p.start()
 

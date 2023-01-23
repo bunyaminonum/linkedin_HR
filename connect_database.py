@@ -19,7 +19,6 @@ class MDB:
             data = self.collection.find({})
             for i in data:
                 self.linklistFromDB.append(i['_id'])
-            print(self.linklistFromDB)
+            # print(self.linklistFromDB)
         except:
             print('error!')
-

@@ -3777,3 +3777,1910 @@ JavaScript error: https://static-exp1.licdn.com/sc/h/ekpvkh65cx03lsv7lixad7men, 
 JavaScript error: https://static-exp1.licdn.com/sc/h/ekpvkh65cx03lsv7lixad7men, line 1184: TypeError: Network request failed
 1670410211863	Marionette	INFO	Stopped listening on port 60483
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672124882334	geckodriver	INFO	Listening on 127.0.0.1:62535
+1672124885363	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileuue42r"
+1672124885876	Marionette	INFO	Marionette enabled
+1672124885882	Marionette	INFO	Listening on port 62547
+Read port: 62547
+1672124886363	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileuue42r\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+1672124900262	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+1672124906421	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://static.licdn.com/sc/h/b36st34lqx8hvhg4m1f4yjh8p, line 1570: MDError: [web-messenger-data] Network Error - initialSyncConversations (104) - NetworkError when attempting to fetch resource.
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+1672124909648	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+1672124917537	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://static.licdn.com/sc/h/b36st34lqx8hvhg4m1f4yjh8p, line 1575: MDError: [web-messenger-data] Network Error - getQuickRepliesByConversationAPI (104) - NetworkError when attempting to fetch resource.
+JavaScript error: https://static.licdn.com/sc/h/b36st34lqx8hvhg4m1f4yjh8p, line 1575: MDError: [web-messenger-data] Cannot load older messages (617) - [web-messenger-data] Network Error - getConversationMessagesByTimestamp (104) - NetworkError when attempting to fetch resource.
+JavaScript warning: https://static.licdn.com/sc/h/ew1qz3vmnnyvok42wadcw4v07, line 18989: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g5zs3zsd50hyrt4xy1ns8kvv, line 2483: unreachable code after return statement
+JavaScript error: https://static.licdn.com/sc/h/b36st34lqx8hvhg4m1f4yjh8p, line 1575: MDError: [web-messenger-data] Cannot load older messages (617) - [web-messenger-data] Network Error - getConversationMessagesByTimestamp (104) - NetworkError when attempting to fetch resource.
+JavaScript error: https://static.licdn.com/sc/h/b36st34lqx8hvhg4m1f4yjh8p, line 1575: MDError: [web-messenger-data] Network Error - getQuickRepliesByConversationAPI (104) - NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\onumb\AppData\Local\Temp\rust_mozprofileuue42r\bookmarkbackups\bookmarks-2022-12-27_11_v0iYTNaKmYH-lqvOwmNHJA==.jsonlz4) because it does not exist
+1672207704788	Marionette	INFO	Stopped listening on port 62547
+[Parent 5364, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 5364, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 5364, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+EjTb\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript error: https://static.licdn.com/sc/h/b36st34lqx8hvhg4m1f4yjh8p, line 1570: MDError: [web-messenger-data] Network Error - getMailboxUnreadCounts (104) - NetworkError when attempting to fetch resource.
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+1672128619137	Marionette	INFO	Stopped listening on port 58238
+2128487929	geckodriver	INFO	Listening on 127.0.0.1:58340
+1672128490991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofilehbeleT"
+1672128491257	Marionette	INFO	Marionette enabled
+1672128491262	Marionette	INFO	Listening on port 58352
+Read port: 58352
+1672128491434	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofilehbeleT\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+1672128500231	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript error: https://static.licdn.com/sc/h/b36st34lqx8hvhg4m1f4yjh8p, line 1570: MDError: [web-messenger-data] Network Error - findConversationsByTimestamp (104) - NetworkError when attempting to fetch resource.
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+1672128510723	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1672128618663	Marionette	INFO	Stopped listening on port 58352
+2128552798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofile890N9p"
+1672128553077	Marionette	INFO	Marionette enabled
+1672128553080	Marionette	INFO	Listening on port 58470
+Read port: 58470
+1672128553185	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofile890N9p\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript error: https://static.licdn.com/sc/h/b36st34lqx8hvhg4m1f4yjh8p, line 1570: MDError: [web-messenger-data] Network Error - getMailboxUnreadCounts (104) - NetworkError when attempting to fetch resource.
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+1672128618179	Marionette	INFO	Stopped listening on port 58471672128620779	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileLf76R8"
+1672128621081	Marionette	INFO	Marionette enabled
+1672128621085	Marionette	INFO	Listening on port 58580
+Read port: 58580
+1672128621202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileLf76R8\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript error: https://static.licdn.com/sc/h/b36st34lqx8hvhg4m1f4yjh8p, line 1570: MDError: [web-messenger-data] Network Error - getMailboxUnreadCounts (104) - NetworkError when attempting to fetch resource.
+JavaScript warning: https://static.licdn.com/sc/h/ew1qz3vmnnyvok42wadcw4v07, line 18989: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g5zs3zsd50hyrt4xy1ns8kvv, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/ew1qz3vmnnyvok42wadcw4v07, line 18989: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+1672128784911	Marionette	INFO	Stopped listening on port 58580
+2128745568	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileu302mg"
+1672128745834	Marionette	INFO	Marionette enabled
+1672128745837	Marionette	INFO	Listening on port 58690
+Read port: 58690
+1672128746007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileu302mg\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+1672128783832	Marionette	INFO	Stopped listening on port 58690
+1672207630782	geckodriver	INFO	Listening on 127.0.0.1:56644
+1672207633817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileOJVnEm"
+1672207634175	Marionette	INFO	Marionette enabled
+1672207634179	Marionette	INFO	Listening on port 56656
+Read port: 56656
+1672207634412	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileOJVnEm\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: https://static.licdn.com/sc/h/dmke7g79hm3iwsfcou75kwnu7, line 1: TypeError: n.error is undefined
+JavaScript error: https://static.licdn.com/sc/h/3j12a5awf32tx22n8hw31dk01, line 192: uncaught exception: [object XMLHttpRequest]
+JavaScript error: https://static.licdn.com/sc/h/dmke7g79hm3iwsfcou75kwnu7, line 1: Error: Could not lazy load JS with src https://static.licdn.com/sc/h/djykitbj8q6nbc5kqowcmv2h7
+JavaScript error: https://static.licdn.com/sc/h/dmke7g79hm3iwsfcou75kwnu7, line 1: Error: Could not lazy load JS with src https://static.licdn.com/sc/h/20oldnhklhzz1f88661e0volz
+JavaScript error: https://static.licdn.com/sc/h/dmke7g79hm3iwsfcou75kwnu7, line 1: Error: Could not lazy load JS with src https://static.licdn.com/sc/h/6y2czwba46q3wsh2b0d0g6trj
+JavaScript error: https://static.licdn.com/sc/h/dmke7g79hm3iwsfcou75kwnu7, line 1: Error: Could not lazy load JS with src https://static.licdn.com/sc/h/6y2czwba46q3wsh2b0d0g6trj
+JavaScript error: https://static.licdn.com/sc/h/dmke7g79hm3iwsfcou75kwnu7, line 1: TypeError: n.error is undefined
+JavaScript error: https://static.licdn.com/sc/h/3j12a5awf32tx22n8hw31dk01, line 192: uncaught exception: [object XMLHttpRequest]
+JavaScript error: https://static.licdn.com/sc/h/dmke7g79hm3iwsfcou75kwnu7, line 1: Error: Could not lazy load JS with src https://static.licdn.com/sc/h/djykitbj8q6nbc5kqowcmv2h7
+JavaScript error: https://static.licdn.com/sc/h/dmke7g79hm3iwsfcou75kwnu7, line 1: Error: Could not lazy load JS with src https://static.licdn.com/sc/h/20oldnhklhzz1f88661e0volz
+JavaScript error: https://static.licdn.com/sc/h/dmke7g79hm3iwsfcou75kwnu7, line 1: Error: Could not lazy load JS with src https://static.licdn.com/sc/h/6y2czwba46q3wsh2b0d0g6trj
+JavaScript error: https://static.licdn.com/sc/h/dmke7g79hm3iwsfcou75kwnu7, line 1: Error: Could not lazy load JS with src https://static.licdn.com/sc/h/6y2czwba46q3wsh2b0d0g6trj
+JavaScript error: https://static.licdn.com/sc/h/dmke7g79hm3iwsfcou75kwnu7, line 1: TypeError: n.error is undefined
+JavaScript error: https://static.licdn.com/sc/h/3j12a5awf32tx22n8hw31dk01, line 192: uncaught exception: [object XMLHttpRequest]
+JavaScript error: https://static.licdn.com/sc/h/dmke7g79hm3iwsfcou75kwnu7, line 1: Error: Could not lazy load JS with src https://static.licdn.com/sc/h/6y2czwba46q3wsh2b0d0g6trj
+JavaScript error: https://static.licdn.com/sc/h/dmke7g79hm3iwsfcou75kwnu7, line 1: Error: Could not lazy load JS with src https://static.licdn.com/sc/h/6y2czwba46q3wsh2b0d0g6trj
+JavaScript error: https://static.licdn.com/sc/h/dmke7g79hm3iwsfcou75kwnu7, line 1: Error: Could not lazy load JS with src https://static.licdn.com/sc/h/djykitbj8q6nbc5kqowcmv2h7
+JavaScript error: https://static.licdn.com/sc/h/dmke7g79hm3iwsfcou75kwnu7, line 1: Error: Could not lazy load JS with src https://static.licdn.com/sc/h/20oldnhklhzz1f88661e0volz
+1672207651013	Marionette	INFO	Stopped listening on port 56656
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1672207709810	geckodriver	INFO	Listening on 127.0.0.1:56775
+1672207712831	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofile4TE3Um"
+1672207713227	Marionette	INFO	Marionette enabled
+1672207713231	Marionette	INFO	Listening on port 56787
+Read port: 56787
+1672207713608	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofile4TE3Um\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+1672207722569	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+1672207747596	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+1672207754961	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://static.licdn.com/sc/h/b36st34lqx8hvhg4m1f4yjh8p, line 1570: MDError: [web-messenger-data] Network Error - getMailboxUnreadCounts (104) - NetworkError when attempting to fetch resource.
+JavaScript error: https://static.licdn.com/sc/h/b36st34lqx8hvhg4m1f4yjh8p, line 1575: MDError: [web-messenger-data] Network Error - findConversationsByTimestamp (104) - NetworkError when attempting to fetch resource.
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+1672207760028	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1672207774493	Marionette	INFO	Stopped listening on port 56787
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1672740590134	geckodriver	INFO	Listening on 127.0.0.1:50560
+1672740593190	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofilePyRSPb"
+1672740593463	Marionette	INFO	Marionette enabled
+1672740593467	Marionette	INFO	Listening on port 50572
+Read port: 50572
+1672740593573	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofilePyRSPb\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1672740602351	Marionette	INFO	Stopped listening on port 50572
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1672740716124	geckodriver	INFO	Listening on 127.0.0.1:50797
+1672740719171	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileT7CIAs"
+1672740719432	Marionette	INFO	Marionette enabled
+1672740719436	Marionette	INFO	Listening on port 50809
+Read port: 50809
+1672740719617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileT7CIAs\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://static.licdn.com/sc/h/77eesbdkmn3961kosuhlmeuy0, line 3738: Error: You attempted to mount the engine 'msg-overlay', but it is not registered with its parent.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 587: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+1672740730848	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 18952, MediaDecoderStateMachine #1] WARNING: Decoder=13bab837100 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 18952, MediaDecoderStateMachine #1] WARNING: Decoder=13bab837100 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+[Child 18952, MediaDecoderStateMachine #1] WARNING: Decoder=13ba9fc9d00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 18952, MediaDecoderStateMachine #1] WARNING: Decoder=13ba9fc9d00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+1672740742080	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://static.licdn.com/sc/h/b36st34lqx8hvhg4m1f4yjh8p, line 1570: MDError: [web-messenger-data] Network Error - getMailboxUnreadCounts (104) - NetworkError when attempting to fetch resource.
+JavaScript error: https://static.licdn.com/sc/h/b36st34lqx8hvhg4m1f4yjh8p, line 1575: MDError: [web-messenger-data] Network Error - findConversationsByTimestamp (104) - NetworkError when attempting to fetch resource.
+JavaScript warning: https://static.licdn.com/sc/h/6epxaogcqozmibgl5zzs4g9pc, line 18990: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/5x46ytbod3r0are8gbrqhxqob, line 2483: unreachable code after return statement
+1672740746157	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://static.licdn.com/sc/h/b36st34lqx8hvhg4m1f4yjh8p, line 1570: MDError: [web-messenger-data] Network Error - getMailboxUnreadCounts (104) - NetworkError when attempting to fetch resource.
+JavaScript error: https://static.licdn.com/sc/h/b36st34lqx8hvhg4m1f4yjh8p, line 1575: MDError: [web-messenger-data] Network Error - findConversationsByTimestamp (104) - NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: Object
+1672740749691	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1672740792588	geckodriver	INFO	Listening on 127.0.0.1:50909
+1672740795599	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofilewbY0k0"
+1672740795911	Marionette	INFO	Marionette enabled
+1672740795915	Marionette	INFO	Listening on port 50921
+Read port: 50921
+1672740796004	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1672740805649	geckodriver	INFO	Listening on 127.0.0.1:50926
+1672740808686	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileizwknA"
+1672740808928	Marionette	INFO	Marionette enabled
+1672740808932	Marionette	INFO	Listening on port 50941
+Read port: 50941
+1672740809123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileizwknA\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/53pvxhwnu4814i1e9beje3cqa, line 89: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://linkedin-api.arkoselabs.com/cdn/fc/js/39eca341811c50f1f573c72f14bd5612e0f6cd3c/standard/funcaptcha_api.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/djykitbj8q6nbc5kqowcmv2h7, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/djykitbj8q6nbc5kqowcmv2h7, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/20oldnhklhzz1f88661e0volz, line 88: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1672740825147	Marionette	INFO	Stopped listening on port 50941
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1672925853884	geckodriver	INFO	Listening on 127.0.0.1:57538
+1672925856935	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofile7ro0sd"
+1672925857482	Marionette	INFO	Marionette enabled
+1672925857488	Marionette	INFO	Listening on port 57550
+Read port: 57550
+1672925857899	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofile7ro0sd\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/dy00bwkr68x4idpmjn1t7whaz, line 18988: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/23m71rkz42crchadd9k294fwo, line 2484: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://static.licdn.com/sc/h/77eesbdkmn3961kosuhlmeuy0, line 3738: Error: You attempted to mount the engine 'msg-overlay', but it is not registered with its parent.
+1672925867773	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/dy00bwkr68x4idpmjn1t7whaz, line 18988: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/23m71rkz42crchadd9k294fwo, line 2484: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/23m71rkz42crchadd9k294fwo, line 2484: unreachable code after return statement
+1672925869610	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 20872, MediaDecoderStateMachine #1] WARNING: Decoder=21a53cc5700 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 20872, MediaDecoderStateMachine #1] WARNING: Decoder=21a53cc5700 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:151
+JavaScript warning: https://static.licdn.com/sc/h/dy00bwkr68x4idpmjn1t7whaz, line 18988: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/23m71rkz42crchadd9k294fwo, line 2484: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/23m71rkz42crchadd9k294fwo, line 2484: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dy00bwkr68x4idpmjn1t7whaz, line 18988: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/23m71rkz42crchadd9k294fwo, line 2484: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/23m71rkz42crchadd9k294fwo, line 2484: unreachable code after return statement
+1672927893228	Marionette	INFO	Stopped listening on port 57550
+1673451687049	geckodriver	INFO	Listening on 127.0.0.1:62112
+1673451690099	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileuKkoOs"
+1673451690712	Marionette	INFO	Marionette enabled
+1673451690718	Marionette	INFO	Listening on port 62126
+Read port: 62126
+1673451691169	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileuKkoOs\\search.json.mozlz4", (void 0)))
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+1673451718831	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/almcuxtkl04kqogxglexwi1hp, line 18979: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cr653h2r2blypucrdwdhf39v2, line 2481: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/almcuxtkl04kqogxglexwi1hp, line 18979: unreachable code after return statement
+1673451871260	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1673451873043	Marionette	INFO	Stopped listening on port 62126
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1673451985667	geckodriver	INFO	Listening on 127.0.0.1:63350
+1673451988685	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofilePpxlpc"
+1673451989120	Marionette	INFO	Marionette enabled
+1673451989126	Marionette	INFO	Listening on port 64111
+Read port: 64111
+1673451989567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofilePpxlpc\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/almcuxtkl04kqogxglexwi1hp, line 18979: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cr653h2r2blypucrdwdhf39v2, line 2481: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/almcuxtkl04kqogxglexwi1hp, line 18979: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://static.licdn.com/sc/h/77eesbdkmn3961kosuhlmeuy0, line 3738: Error: You attempted to mount the engine 'msg-overlay', but it is not registered with its parent.
+JavaScript warning: https://static.licdn.com/sc/h/almcuxtkl04kqogxglexwi1hp, line 18979: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cr653h2r2blypucrdwdhf39v2, line 2481: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cr653h2r2blypucrdwdhf39v2, line 2481: unreachable code after return statement
+1673452032535	Marionette	INFO	Stopped listening on port 64111
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControlleconsole.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/almcuxtkl04kqogxglexwi1hp, line 18979: unreachable code after return statement
+1673452039364	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/almcuxtkl04kqogxglexwi1hp, line 18979: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cr653h2r2blypucrdwdhf39v2, line 2481: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cr653h2r2blypucrdwdhf39v2, line 2481: unreachable code after return statement
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:878:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:783:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.jsm:116:1
+NetworkError@resource://services-settings/RemoteSettingsClient.jsm:120:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.jsm:878:14
+maybeSync@resource://services-settings/RemoteSettingsClient.jsm:783:38
+
+1673522600059	Marionette	INFO	Stopped listening on port 64253
+[Parent 1148, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+lemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1673452090400	geckodriver	INFO	Listening on 127.0.0.1:64365
+1673452093417	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofilei6Ulo8"
+1673452093852	Marionette	INFO	Marionette enabled
+1673452093860	Marionette	INFO	Listening on port 64387
+Read port: 64387
+1673452094284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofilei6Ulo8\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/djykitbj8q6nbc5kqowcmv2h7, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/djykitbj8q6nbc5kqowcmv2h7, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/20oldnhklhzz1f88661e0volz, line 88: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673452120592	Marionette	INFO	Stopped listening on port 64387
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1673452318147	geckodriver	INFO	Listening on 127.0.0.1:64499
+1673452321189	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileyugcF2"
+1673452321556	Marionette	INFO	Marionette enabled
+1673452321561	Marionette	INFO	Listening on port 64511
+Read port: 64511
+1673452321927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileyugcF2\\search.json.mozlz4", (void 0)))
+1673452324558	Marionette	INFO	Stopped listening on port 64511
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 416))
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1673452385998	geckodriver	INFO	Listening on 127.0.0.1:64521
+1673452389049	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofilenJuDGj"
+1673452389407	Marionette	INFO	Marionette enabled
+1673452389413	Marionette	INFO	Listening on port 64533
+Read port: 64533
+1673452389809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofilenJuDGj\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 764))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 416))
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+1673452405821	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/cr653h2r2blypucrdwdhf39v2, line 2481: unreachable code after return statement
+JavaScript error: https://static.licdn.com/sc/h/cr653h2r2blypucrdwdhf39v2, line 2508: ReferenceError: runningTests is not defined
+JavaScript warning: https://static.licdn.com/sc/h/almcuxtkl04kqogxglexwi1hp, line 18979: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cr653h2r2blypucrdwdhf39v2, line 2481: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/almcuxtkl04kqogxglexwi1hp, line 18979: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/almcuxtkl04kqogxglexwi1hp, line 18979: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cr653h2r2blypucrdwdhf39v2, line 2481: unreachable code after return statement
+1673452464651	Marionette	INFO	Stopped listening on port 64533
+3452461913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileI7fzto"
+1673452462185	Marionette	INFO	Marionette enabled
+1673452462189	Marionette	INFO	Listening on port 64699
+Read port: 64699
+1673452462287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileI7fzto\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+1673452471572	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/almcuxtkl04kqogxglexwi1hp, line 18979: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cr653h2r2blypucrdwdhf39v2, line 2481: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/almcuxtkl04kqogxglexwi1hp, line 18979: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/almcuxtkl04kqogxglexwi1hp, line 18979: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cr653h2r2blypucrdwdhf39v2, line 2481: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cr653h2r2blypucrdwdhf39v2, line 2481: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dh2tu8ijec6vvwcwq58t5jq3z, line 18979: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/3ixalag9x2ilyleidf5vwd4qf, line 2481: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dh2tu8ijec6vvwcwq58t5jq3z, line 18979: unreachable code after return statement
+1673455736786	Marionette	INFO	Stopped listening on port 64699
+3455387672	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofilezJddjE"
+1673455388039	Marionette	INFO	Marionette enabled
+1673455388044	Marionette	INFO	Listening on port 49362
+Read port: 49362
+1673455388441	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofilezJddjE\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+1673455397667	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/dh2tu8ijec6vvwcwq58t5jq3z, line 18979: unreachable code after return statement
+JavaScript error: https://static.licdn.com/sc/h/dh2tu8ijec6vvwcwq58t5jq3z, line 5: ReferenceError: require is not defined
+JavaScript error: https://static.licdn.com/sc/h/c72lq5pufy874nj0jdi68gntw, line 2: ReferenceError: require is not defined
+JavaScript error: https://static.licdn.com/sc/h/enawuxfmlb8csv5duqv9vxk55, line 1: ReferenceError: define is not defined
+JavaScript error: https://static.licdn.com/sc/h/7i1clgvgzdhhrderwxvomp88w, line 1: ReferenceError: define is not defined
+JavaScript error: https://static.licdn.com/sc/h/3lbfo5qmlcaxtbi9c6evf0i03, line 1: ReferenceError: define is not defined
+JavaScript error: https://static.licdn.com/sc/h/d0ef1iu7sltqz3wr5gk1u9vtm, line 1: ReferenceError: define is not defined
+JavaScript error: https://static.licdn.com/sc/h/6b7j94ny9ldkbx5tq0knwdsjx, line 1: ReferenceError: define is not defined
+JavaScript error: https://static.licdn.com/sc/h/egqcr14xdqdl0v8anyfw6f3b9, line 1: ReferenceError: define is not defined
+JavaScript error: https://static.licdn.com/sc/h/d0ef1iu7sltqz3wr5gk1u9vtm, line 1: ReferenceError: define is not defined
+JavaScript warning: https://static.licdn.com/sc/h/3ixalag9x2ilyleidf5vwd4qf, line 2481: unreachable code after return statement
+JavaScript error: https://static.licdn.com/sc/h/3ixalag9x2ilyleidf5vwd4qf, line 3: ReferenceError: define is not defined
+JavaScript warning: https://static.licdn.com/sc/h/dh2tu8ijec6vvwcwq58t5jq3z, line 18979: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/3ixalag9x2ilyleidf5vwd4qf, line 2481: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/3ixalag9x2ilyleidf5vwd4qf, line 2481: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/almcuxtkl04kqogxglexwi1hp, line 18979: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/cr653h2r2blypucrdwdhf39v2, line 2481: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/almcuxtkl04kqogxglexwi1hp, line 18979: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dh2tu8ijec6vvwcwq58t5jq3z, line 18979: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/3ixalag9x2ilyleidf5vwd4qf, line 2481: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/3ixalag9x2ilyleidf5vwd4qf, line 2481: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dh2tu8ijec6vvwcwq58t5jq3z, line 18979: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/3ixalag9x2ilyleidf5vwd4qf, line 2481: unreachable code after return statement
+JavaScript error: https://static.licdn.com/sc/h/188dttx0qa643730q1d67vaid, line 1570: MDError: [web-messenger-data] Network Error - getMailboxUnreadCounts (104) - NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1673455507499	Marionette	INFO	Stopped listening on port 49362
+1673455791958	geckodriver	INFO	Listening on 127.0.0.1:49768
+1673455794986	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofilesIOku3"
+1673455795369	Marionette	INFO	Marionette enabled
+1673455795374	Marionette	INFO	Listening on port 49780
+Read port: 49780
+1673455795787	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofilesIOku3\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+1673455807665	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/dh2tu8ijec6vvwcwq58t5jq3z, line 18979: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/3ixalag9x2ilyleidf5vwd4qf, line 2481: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static.licdn.com/sc/h/dh2tu8ijec6vvwcwq58t5jq3z, line 18979: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/3ixalag9x2ilyleidf5vwd4qf, line 2481: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/3ixalag9x2ilyleidf5vwd4qf, line 2481: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/dh2tu8ijec6vvwcwq58t5jq3z, line 18979: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/3ixalag9x2ilyleidf5vwd4qf, line 2481: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/3ixalag9x2ilyleidf5vwd4qf, line 2481: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static.licdn.com/sc/h/dh2tu8ijec6vvwcwq58t5jq3z, line 18979: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/3ixalag9x2ilyleidf5vwd4qf, line 2481: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/3ixalag9x2ilyleidf5vwd4qf, line 2481: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1673455924116	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1673522600594	Marionette	INFO	Stopped listening on port 49780
+1673522743256	geckodriver	INFO	Listening on 127.0.0.1:58723
+1673522746298	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofile7ZjW4d"
+1673522746640	Marionette	INFO	Marionette enabled
+1673522746644	Marionette	INFO	Listening on port 58737
+Read port: 58737
+1673522746986	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofile7ZjW4d\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/bcyx7a29b8d3x35ohriy968pi, line 18983: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/1pof3tg0t9afllinw8fzticrl, line 2481: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/bcyx7a29b8d3x35ohriy968pi, line 18983: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/1pof3tg0t9afllinw8fzticrl, line 2481: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/1pof3tg0t9afllinw8fzticrl, line 2481: unreachable code after return statement
+1673522757699	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/bcyx7a29b8d3x35ohriy968pi, line 18983: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/1pof3tg0t9afllinw8fzticrl, line 2481: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/1pof3tg0t9afllinw8fzticrl, line 2481: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/bcyx7a29b8d3x35ohriy968pi, line 18983: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/1pof3tg0t9afllinw8fzticrl, line 2481: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/1pof3tg0t9afllinw8fzticrl, line 2481: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://static.licdn.com/sc/h/bcyx7a29b8d3x35ohriy968pi, line 17200: Error: {"status":0}
+1673600591506	Marionette	INFO	Stopped listening on port 58737
+1674113836040	geckodriver	INFO	Listening on 127.0.0.1:57350
+1674113839058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileV4psVD"
+1674113839558	Marionette	INFO	Marionette enabled
+1674113839563	Marionette	INFO	Listening on port 57362
+Read port: 57362
+1674113839990	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileV4psVD\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+1674113854070	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1674113882246	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+1674113884597	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://static.licdn.com/sc/h/1xqb0yei7q9qfxdlz8ga9typz, line 1614: MDError: [web-messenger-data] Network Error - getMailboxUnreadCounts (104) - NetworkError when attempting to fetch resource.
+JavaScript error: https://static.licdn.com/sc/h/1xqb0yei7q9qfxdlz8ga9typz, line 1619: MDError: [web-messenger-data] Network Error - findConversationsByTimestamp (104) - NetworkError when attempting to fetch resource.
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+1674113898817	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+1674113904412	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1674113908886	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://static.licdn.com/sc/h/1xqb0yei7q9qfxdlz8ga9typz, line 1614: MDError: [web-messenger-data] Network Error - getMailboxUnreadCounts (104) - NetworkError when attempting to fetch resource.
+1674113955102	Marionette	INFO	Stopped listening on port 57362
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1674116384351	geckodriver	INFO	Listening on 127.0.0.1:57850
+1674116387358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofiledWGRFU"
+1674116387622	Marionette	INFO	Marionette enabled
+1674116387626	Marionette	INFO	Listening on port 57862
+Read port: 57862
+1674116387737	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofiledWGRFU\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+1674116396590	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1674118501923	Marionette	INFO	Stopped listening on port 57862
+tFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofilexb2WBx\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+1674116634653	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KJeI0sMyo1Q6mjhDM9mKcjS2IqRt95c1wIDqLysfd0M.js line 2 > eval line 3879 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674157337496	Marionette	INFO	Stopped listening on port 57983
+rionette	INFO	Listening on port 58085
+Read port: 58085
+1674116697426	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileWWCDcF\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+1674116707074	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 27167: Error: Failed to preload bundles: profile-tetris
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://static.licdn.com/sc/h/77eesbdkmn3961kosuhlmeuy0, line 3738: Error: You attempted to mount the engine 'msg-overlay', but it is not registered with its parent.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://static.licdn.com/sc/h/1xqb0yei7q9qfxdlz8ga9typz, line 1614: MDError: [web-messenger-data] Chain sync failed (625) - NetworkError when attempting to fetch resource.
+1674157339289	Marionette	INFO	Stopped listening on port 58085
+ofileLcUHAw"
+1674116811405	Marionette	INFO	Marionette enabled
+1674116811410	Marionette	INFO	Listening on port 58215
+Read port: 58215
+1674116811635	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileLcUHAw\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+1674116821558	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript error: https://static.licdn.com/sc/h/1xqb0yei7q9qfxdlz8ga9typz, line 1614: MDError: [web-messenger-data] Network Error - getMailboxUnreadCounts (104) - NetworkError when attempting to fetch resource.
+JavaScript error: https://static.licdn.com/sc/h/1xqb0yei7q9qfxdlz8ga9typz, line 1614: MDError: [web-messenger-data] Network Error - getMailboxUnreadCounts (104) - NetworkError when attempting to fetch resource.
+1674116967757	Marionette	INFO	Stopped listening on port 58215
+1674118261026	geckodriver	INFO	Listening on 127.0.0.1:62885
+1674118264094	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofile0v7d7J"
+1674118264364	Marionette	INFO	Marionette enabled
+1674118264369	Marionette	INFO	Listening on port 62897
+Read port: 62897
+1674118264468	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofile0v7d7J\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+1674118273622	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript error: https://static.licdn.com/sc/h/1xqb0yei7q9qfxdlz8ga9typz, line 1614: MDError: [web-messenger-data] Network Error - getMailboxUnreadCounts (104) - NetworkError when attempting to fetch resource.
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript error: https://static.licdn.com/sc/h/1xqb0yei7q9qfxdlz8ga9typz, line 1614: MDError: [web-messenger-data] Network Error - getMailboxUnreadCounts (104) - NetworkError when attempting to fetch resource.
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript error: https://static.licdn.com/sc/h/1xqb0yei7q9qfxdlz8ga9typz, line 1614: MDError: [web-messenger-data] Network Error - getMailboxUnreadCounts (104) - NetworkError when attempting to fetch resource.
+JavaScript error: https://static.licdn.com/sc/h/1xqb0yei7q9qfxdlz8ga9typz, line 1614: MDError: [web-messenger-data] Network Error - getMailboxUnreadCounts (104) - NetworkError when attempting to fetch resource.
+1674118380906	Marionette	INFO	Stopped listening on port 62897
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1674118487943	geckodriver	INFO	Listening on 127.0.0.1:63033
+1674118490963	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileeoBbnu"
+1674118491247	Marionette	INFO	Marionette enabled
+1674118491250	Marionette	INFO	Listening on port 63045
+Read port: 63045
+1674118491334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileeoBbnu\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+1674118501104	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1674118865020	Marionette	INFO	Stopped listening on port 63041674118865364	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileVDd9zt"
+1674118865711	Marionette	INFO	Marionette enabled
+1674118865715	Marionette	INFO	Listening on port 63224
+Read port: 63224
+1674118865947	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileVDd9zt\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+1674118916731	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript error: https://static.licdn.com/sc/h/1xqb0yei7q9qfxdlz8ga9typz, line 1614: MDError: [web-messenger-data] Network Error - getMailboxUnreadCounts (104) - NetworkError when attempting to fetch resource.
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://static.licdn.com/sc/h/1xqb0yei7q9qfxdlz8ga9typz, line 1614: MDError: [web-messenger-data] Network Error - getMailboxUnreadCounts (104) - NetworkError when attempting to fetch resource.
+1674118976780	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://static.licdn.com/sc/h/1xqb0yei7q9qfxdlz8ga9typz, line 1614: MDError: [web-messenger-data] Chain sync failed (625) - NetworkError when attempting to fetch resource.
+1674157340447	Marionette	INFO	Stopped listening on port 63224
+ofilemOFllt"
+1674119133758	Marionette	INFO	Marionette enabled
+1674119133762	Marionette	INFO	Listening on port 63524
+Read port: 63524
+1674119133858	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofilemOFllt\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+1674119145353	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript error: https://static.licdn.com/sc/h/1xqb0yei7q9qfxdlz8ga9typz, line 1614: MDError: [web-messenger-data] Network Error - getMailboxUnreadCounts (104) - NetworkError when attempting to fetch resource.
+1674157342107	Marionette	INFO	Stopped listening on port 63524
+4136350127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofilefIXnzW"
+1674136350489	Marionette	INFO	Marionette enabled
+1674136350493	Marionette	INFO	Listening on port 58801
+Read port: 58801
+1674136350623	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofilefIXnzW\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+1674136360177	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript error: https://static.licdn.com/sc/h/1xqb0yei7q9qfxdlz8ga9typz, line 1614: MDError: [web-messenger-data] Network Error - getMailboxUnreadCounts (104) - NetworkError when attempting to fetch resource.
+1674136392088	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1674136430839	Marionette	INFO	Stopped listening on port 58801
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1674136505625	geckodriver	INFO	Listening on 127.0.0.1:58902
+1674136508669	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofilezJ8GGO"
+1674136508946	Marionette	INFO	Marionette enabled
+1674136508949	Marionette	INFO	Listening on port 58914
+Read port: 58914
+1674136509045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofilezJ8GGO\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+1674136518189	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript error: https://static.licdn.com/sc/h/1xqb0yei7q9qfxdlz8ga9typz, line 1614: MDError: [web-messenger-data] Network Error - getMailboxUnreadCounts (104) - NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1674137211472	Marionette	INFO	Stopped listening on port 58914
+4136693781	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileMLcRhc"
+1674136694121	Marionette	INFO	Marionette enabled
+1674136694126	Marionette	INFO	Listening on port 59052
+Read port: 59052
+1674136694363	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileMLcRhc\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+1674136703703	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1674136872099	Marionette	INFO	Stopped listening on port 59052
+4136868831	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofilelVLOK3"
+1674136869176	Marionette	INFO	Marionette enabled
+1674136869182	Marionette	INFO	Listening on port 59178
+Read port: 59178
+1674136869438	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofilelVLOK3\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+1674136879065	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript error: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2677: ReferenceError: runningTests is not defined
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+1674137064367	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/8g0nhdh5slpzr3o6hp7m1chvq, line 2650: unreachable code after return statement
+1674137067836	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://static.licdn.com/sc/h/1xqb0yei7q9qfxdlz8ga9typz, line 1614: MDError: [web-messenger-data] Network Error - findConversationsByTimestamp (104) - NetworkError when attempting to fetch resource.
+JavaScript error: https://static.licdn.com/sc/h/1xqb0yei7q9qfxdlz8ga9typz, line 1619: MDError: [web-messenger-data] Network Error - getMailboxUnreadCounts (104) - NetworkError when attempting to fetch resource.
+JavaScript warning: https://static.licdn.com/sc/h/b6qdct0559l6pknd9eg4ct6xu, line 19016: unreachable code after return statement
+1674137072574	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://static.licdn.com/sc/h/1xqb0yei7q9qfxdlz8ga9typz, line 1614: MDError: [web-messenger-data] Network Error - getMailboxUnreadCounts (104) - NetworkError when attempting to fetch resource.
+JavaScript error: https://static.licdn.com/sc/h/1xqb0yei7q9qfxdlz8ga9typz, line 1619: MDError: [web-messenger-data] Network Error - findConversationsByTimestamp (104) - NetworkError when attempting to fetch resource.
+1674137076894	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://static.licdn.com/sc/h/1xqb0yei7q9qfxdlz8ga9typz, line 1614: MDError: [web-messenger-data] Network Error - getMailboxUnreadCounts (104) - NetworkError when attempting to fetch resource.
+JavaScript error: https://static.licdn.com/sc/h/1xqb0yei7q9qfxdlz8ga9typz, line 1619: MDError: [web-messenger-data] Network Error - findConversationsByTimestamp (104) - NetworkError when attempting to fetch resource.
+1674137082521	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1674137086889	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1674137132075	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1674137177503	Marionette	INFO	Stopped listening on port 59178
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1674200540457	geckodriver	INFO	Listening on 127.0.0.1:50244
+1674200543519	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileO8CoZS"
+1674200544016	Marionette	INFO	Marionette enabled
+1674200544021	Marionette	INFO	Listening on port 50256
+Read port: 50256
+1674200544881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileO8CoZS\\search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 302: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/9zlc035zulcbnxkr10m9tcxqu, line 18905: unreachable code after return statement
+1674200553887	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/9zlc035zulcbnxkr10m9tcxqu, line 18905: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7ajkeza6bm9yg754fyfe57tbc, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7ajkeza6bm9yg754fyfe57tbc, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/9zlc035zulcbnxkr10m9tcxqu, line 18905: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7ajkeza6bm9yg754fyfe57tbc, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7ajkeza6bm9yg754fyfe57tbc, line 2650: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static.licdn.com/sc/h/9zlc035zulcbnxkr10m9tcxqu, line 18905: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7ajkeza6bm9yg754fyfe57tbc, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7ajkeza6bm9yg754fyfe57tbc, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7ajkeza6bm9yg754fyfe57tbc, line 2650: unreachable code after return statement
+1674294456083	Marionette	INFO	Stopped listening on port 50256
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+o-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileKDCgKG"
+1674201072862	Marionette	INFO	Marionette enabled
+1674201072867	Marionette	INFO	Listening on port 50517
+Read port: 50517
+1674201072968	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileKDCgKG\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+1674201082374	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/9zlc035zulcbnxkr10m9tcxqu, line 18905: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7ajkeza6bm9yg754fyfe57tbc, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/9zlc035zulcbnxkr10m9tcxqu, line 18905: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/9zlc035zulcbnxkr10m9tcxqu, line 18905: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7ajkeza6bm9yg754fyfe57tbc, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7ajkeza6bm9yg754fyfe57tbc, line 2650: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://static.licdn.com/sc/h/8f8mb9aznsxkq84moyfjiza9l, line 3738: Error: You attempted to mount the engine 'msg-overlay', but it is not registered with its parent.
+JavaScript warning: https://static.licdn.com/sc/h/9zlc035zulcbnxkr10m9tcxqu, line 18905: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7ajkeza6bm9yg754fyfe57tbc, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7ajkeza6bm9yg754fyfe57tbc, line 2650: unreachable code after return statement
+1674236181657	Marionette	INFO	Stopped listening on port 50517
+4232913820	geckodriver	INFO	Listening on 127.0.0.1:54390
+1674232916878	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofile0ZSJsJ"
+1674232917349	Marionette	INFO	Marionette enabled
+1674232917356	Marionette	INFO	Listening on port 54402
+Read port: 54402
+1674232917588	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofile0ZSJsJ\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/9zlc035zulcbnxkr10m9tcxqu, line 18905: unreachable code after return statement
+1674232928388	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/9zlc035zulcbnxkr10m9tcxqu, line 18905: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7ajkeza6bm9yg754fyfe57tbc, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7ajkeza6bm9yg754fyfe57tbc, line 2650: unreachable code after return statement
+1674232931820	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/9zlc035zulcbnxkr10m9tcxqu, line 18905: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7ajkeza6bm9yg754fyfe57tbc, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7ajkeza6bm9yg754fyfe57tbc, line 2650: unreachable code after return statement
+1674232938193	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/9zlc035zulcbnxkr10m9tcxqu, line 18905: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7ajkeza6bm9yg754fyfe57tbc, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7ajkeza6bm9yg754fyfe57tbc, line 2650: unreachable code after return statement
+1674232943687	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/7ajkeza6bm9yg754fyfe57tbc, line 2650: unreachable code after return statement
+1674232949092	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+1674232960873	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1674232986336	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1674232993879	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1674233013536	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1674233023659	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1674233035758	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://static.licdn.com/sc/h/3rntj6d2ore20xp5akt31e3bp, line 1569: MDError: [web-messenger-data] Network Error - getMailboxUnreadCounts (104) - NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://static.licdn.com/sc/h/baohcx19jpod3v6wejdwfhc7k, line 82: GraphQLQueryError: GraphQL request failed for query voyagerIdentityDashProfileCards.22e7cccbd773ceef5ed7c2c9d195473a. The 'errors' property of the error contains more details regarding the exact problem.
+JavaScript error: https://static.licdn.com/sc/h/3rntj6d2ore20xp5akt31e3bp, line 1569: MDError: [web-messenger-data] Network Error - findConversationsByTimestamp (104) - NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://static.licdn.com/sc/h/3rntj6d2ore20xp5akt31e3bp, line 1569: MDError: [web-messenger-data] Network Error - getMailboxUnreadCounts (104) - NetworkError when attempting to fetch resource.
+1674233614904	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1674236182549	Marionette	INFO	Stopped listening on port 54402
+1674237236610	geckodriver	INFO	Listening on 127.0.0.1:50181
+1674237239644	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileJcW4Fx"
+1674237239927	Marionette	INFO	Marionette enabled
+1674237239931	Marionette	INFO	Listening on port 50193
+Read port: 50193
+1674237240029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofileJcW4Fx\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+1674237249953	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/9zlc035zulcbnxkr10m9tcxqu, line 18905: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7ajkeza6bm9yg754fyfe57tbc, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/9zlc035zulcbnxkr10m9tcxqu, line 18905: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/9zlc035zulcbnxkr10m9tcxqu, line 18905: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7ajkeza6bm9yg754fyfe57tbc, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7ajkeza6bm9yg754fyfe57tbc, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/9zlc035zulcbnxkr10m9tcxqu, line 18905: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7ajkeza6bm9yg754fyfe57tbc, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7ajkeza6bm9yg754fyfe57tbc, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/9zlc035zulcbnxkr10m9tcxqu, line 18905: unreachable code after return statement
+1674294456044	Marionette	INFO	Stopped listening on port 50193
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+o-remote" "-profile" "C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofile6oJqId"
+1674237293979	Marionette	INFO	Marionette enabled
+1674237293983	Marionette	INFO	Listening on port 50314
+Read port: 50314
+1674237294085	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\onumb\\AppData\\Local\\Temp\\rust_mozprofile6oJqId\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://static.licdn.com/sc/h/e2t0o0fqvl4v5mebo3t314wrl, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.licdn.com/sc/h/e2t0o0fqvl4v5mebo3t314wrl, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/9zlc035zulcbnxkr10m9tcxqu, line 18905: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7ajkeza6bm9yg754fyfe57tbc, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/9zlc035zulcbnxkr10m9tcxqu, line 18905: unreachable code after return statement
+1674237303562	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://static.licdn.com/sc/h/8f8mb9aznsxkq84moyfjiza9l, line 3738: Error: You attempted to mount the engine 'msg-overlay', but it is not registered with its parent.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static.licdn.com/sc/h/9zlc035zulcbnxkr10m9tcxqu, line 18905: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7ajkeza6bm9yg754fyfe57tbc, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7ajkeza6bm9yg754fyfe57tbc, line 2650: unreachable code after return statement
+1674237306273	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/9zlc035zulcbnxkr10m9tcxqu, line 18905: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7ajkeza6bm9yg754fyfe57tbc, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7ajkeza6bm9yg754fyfe57tbc, line 2650: unreachable code after return statement
+1674237315727	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/9zlc035zulcbnxkr10m9tcxqu, line 18905: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7ajkeza6bm9yg754fyfe57tbc, line 2650: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/7ajkeza6bm9yg754fyfe57tbc, line 2650: unreachable code after return statement
+1674237320944	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1674237323288	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://static.licdn.com/sc/h/3rntj6d2ore20xp5akt31e3bp, line 1569: MDError: [web-messenger-data] Network Error - getMailboxUnreadCounts (104) - NetworkError when attempting to fetch resource.
+JavaScript error: https://static.licdn.com/sc/h/3rntj6d2ore20xp5akt31e3bp, line 1574: MDError: [web-messenger-data] Network Error - findConversationsByTimestamp (104) - NetworkError when attempting to fetch resource.
+1674237327906	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1674237345914	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://static.licdn.com/sc/h/3rntj6d2ore20xp5akt31e3bp, line 1569: MDError: [web-messenger-data] Network Error - findConversationsByTimestamp (104) - NetworkError when attempting to fetch resource.
+1674237372553	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1674237407798	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://static.licdn.com/sc/h/9zlc035zulcbnxkr10m9tcxqu, line 17122: Error: {"status":0}
+1674294456045	Marionette	INFO	Stopped listening on port 50314
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

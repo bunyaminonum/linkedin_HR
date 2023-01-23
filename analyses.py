@@ -1,21 +1,35 @@
 import connect_database
 from connect_database import MDB
+from getProfileLinks import GetProfileLinks as gpl
 
-# db = MDB()
-# loc = db.collection.find({})
-# for i in loc:
-#     print(str(i['location']).split(','))
-
-class Analyses:
+class Filter:
     def __init__(self):
         self.db = MDB()
-        self.info = self.db.collection.find({})
-        self.locList = []
-        self.loclist2 = []
-        for i in self.info:
-            list = str(i['location']).split(',')
-            if 'Ankara' in list:
-                print(i)
+
+    def Byloc(self, location):
+        location = str(location).lower()
+        locationInDB = self.db.collection.find({})
+        for loc in locationInDB:
+            editedLoc = str(loc['location']).lower().replace(',', '').strip().split()
+            if location in editedLoc:
+                print(loc)
 
 
-a = Analyses()
+    def ByFollowerSize(self, min_size, maxs_ize):
+        followers = self.db.collection.find({})
+        for follower in followers:
+            followSize = follower['num_connection']
+            if followSize >= min_size and followSize <= maxs_ize:
+                print(follower)
+
+    def ByWorksAt(self, works_at):
+        works_at = str(works_at).lower()
+        works_at_ = self.db.collection.find({})
+        for wa in works_at_:
+            worksAt_ = str(wa['works at']).lower()
+            if works_at in worksAt_:
+                print(wa)
+
+
+filter = Filter()
+filter.ByWorksAt('software')

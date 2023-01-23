@@ -38,4 +38,3 @@ class GetProfileLinks(Login):
         self.linklist = list(set(self.linklist))
 
 
-# P = GetProfileLinks('19701023@mersin.edu.tr', '19074747fb')
