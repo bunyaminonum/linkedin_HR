@@ -16,7 +16,7 @@ class Person:
 
     def setName(self, name:dict):
         self.infoList.update(name)
-
+        print(self.infoList)
     def setLocation(self, loc:dict):
         self.infoList.update(loc)
 
@@ -34,6 +34,12 @@ class Person:
     def setEducation(self, edu:dict):
         self.infoList.update(edu)
 
+    def setDescription(self, desc:dict):
+        self.infoList.update(desc)
+
+    def setSkills(self, skills:dict):
+        self.infoList.update(skills)
+
 class GetInfo(GetProfileLinks):
     GRADUATE_XPATH = '/html/body/div[5]/div[3]/div/div/div/div[2]/div/div/main/section[4]/div[3]/ul/li/div/div[2]/div/a/span[2]/span[1]'
     LOC_XPATH = '/html/body/div[5]/div[3]/div/div/div[2]/div/div/main/section[1]/div[2]/div[2]/div[2]/span[1]'
@@ -41,7 +47,9 @@ class GetInfo(GetProfileLinks):
     FOLLOWERS = 'pvs-header__subtitle'
     NUM_CONNECTION_PATH2 = '/html/body/div[5]/div[3]/div/div/div[2]/div/div/main/section[1]/div[2]/ul/li/a/span/span'
     # BEST_SKILLS_CLASS = 'pvs-list__outer-container'
-    BEST_SKILLS_PATH = '/html/body/div[5]/div[3]/div/div/div[2]/div/div/main/section[4]/div[3]'
+    EDUCATION_INFO = '/html/body/div[5]/div[3]/div/div/div[2]/div/div/main/section[4]/div[3]'
+    DESCRIPTION_PATH = '/html/body/div[5]/div[3]/div/div/div[2]/div/div/main/section[2]/div[3]/div/div/div'
+
     def __init__(self, email:str, password:str, pageNum = 1):
         super().__init__(email, password, pageNum)
         self.db = MDB()
@@ -77,66 +85,81 @@ class GetInfo(GetProfileLinks):
                     src = self.driver.page_source
 
                     soup = BeautifulSoup(src, 'lxml')
-                    intro = soup.find('div', {'class': 'pv-educationInfo-details__left-panel'})
+                    # print(soup)
+                    intro = soup.find('div', {'class': 'pv-text-details__left-panel'})
                     # self.person.setLink({'link':link})
                     try:
                         name_loc = intro.find("h1")
                         name = name_loc.get_text().strip()
                         self.person.setName({'name':name})
                     except:
-                        name_loc = None
+                        name_loc = ''
 
                     try:
-                        works_at_loc = intro.find("div", {'class': 'educationInfo-body-medium'})
+                        works_at_loc = intro.find("div", {'class': 'text-body-medium'})
                         works_at = works_at_loc.get_text().strip()
                         self.person.setWorksAt({'works at' : works_at})
+
                     except:
-                        works_at_loc = None
+                        works_at_loc = ''
 
                     try:
                         location = self.driver.find_element_by_xpath(self.LOC_XPATH).text
                         self.person.setLocation({'location' : location})
                     except NoSuchElementException:
-                        location = None
+                        location = ''
 
                     try:
                         follow = self.driver.find_element_by_class_name(self.FOLLOWERS).text
                         follow = float(str(follow).split()[0].strip().replace(',','.'))
                         self.person.setConnectionNum({'num followers':follow})
                     except NoSuchElementException:
-                        follow = None
+                        follow = ''
 
-                    education = self.driver.find_element_by_xpath(self.BEST_SKILLS_PATH)
-                    edu = education.find_elements_by_tag_name("li")
-                    edulist = list
-                    for item in edu:
-                        educationInfo = item.text
-                        self.person.setEducation({'education':educationInfo})
-                        
-                    # print(self.person.infoList)
+                    try:
+                        education = self.driver.find_element_by_xpath(self.EDUCATION_INFO)
+                        edu = education.find_elements_by_tag_name("li")
+                        edulist = list
+
+                        for item in edu:
+                            educationInfo = item.text
+                            self.person.setEducation({'education':educationInfo})
+                    except:
+                        educationInfo = ''
+
+                    try:
+                        see_more = self.driver.find_element_by_class_name(
+                            'inline-show-more-text__link-container-collapsed')
+                        see_more.click()
+                        self.driver.implicitly_wait(2)
+                        ul = soup.find('ul')
+                        description = self.driver.find_element_by_xpath(self.DESCRIPTION_PATH).text
+                        self.person.setDescription({'description':description})
+                    except:
+                        description = ''
+
                     self.db.collection.insert_one(self.person.infoList)
-
 
                     # self.personInfo.append(self.person.infoList)
                     # print(self.personInfo)
                     print("Name -->", name,
                           "\nWorks At -->", works_at,
                           "\nLocation -->", location,
-                          "\n num followers", follow,
-                          "\neducation", educationInfo)
+                          "\n num followers -->", follow,
+                          "\neducation -->", educationInfo,
+                          "\ndescription -->", description)
+
                 else:
                     continue
                       # "\nnumber of connection -->", num_connection)
         except pymongo.errors.DuplicateKeyError:
             print("duplicate error!")
 
-
-
     # def chechkID(self, _id:dict):
     #     pass
 
             # print(graduate.text)
 
-p = GetInfo('19701023@mersin.edu.tr', '19074747fb', 5)
+p = GetInfo('19701023@mersin.edu.tr', '19074747fb', 2)
 p.start()
 
