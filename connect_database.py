@@ -1,7 +1,6 @@
 import pymongo
 from pymongo import MongoClient
 
-
 class MDB:
     def __init__(self):
         try:
@@ -21,4 +20,5 @@ class MDB:
                 self.linklistFromDB.append(i['_id'])
             # print(self.linklistFromDB)
         except:
-            print('error!')
+            self.linklistFromDB = []
+# M = MDB() #bir database classının başlatılması
