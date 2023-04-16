@@ -50,7 +50,7 @@ class GetInfo(GetProfileLinks):
     EDUCATION_INFO = '/html/body/div[5]/div[3]/div/div/div[2]/div/div/main/section[4]/div[3]'
     DESCRIPTION_PATH = '/html/body/div[5]/div[3]/div/div/div[2]/div/div/main/section[2]/div[3]/div/div/div'
 
-    def __init__(self, email:str, password:str, pageNum = 1):
+    def __init__(self, email:str, password:str, pageNum = 2):
         super().__init__(email, password, pageNum)
         self.db = MDB()
         self.personInfo = []
@@ -136,7 +136,7 @@ class GetInfo(GetProfileLinks):
                         description = self.driver.find_element_by_xpath(self.DESCRIPTION_PATH).text
                         self.person.setDescription({'description':description})
                     except:
-                        description = ''
+                        description = ' '
 
                     self.db.collection.insert_one(self.person.infoList)
 

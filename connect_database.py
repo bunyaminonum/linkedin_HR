@@ -4,9 +4,11 @@ from pymongo import MongoClient
 class MDB:
     def __init__(self):
         try:
-            self.cluster = MongoClient('mongodb+srv://bentego:bIGsa1CZIxovfGg8@linkedincluster0.wewjcl7.mongodb.net/?retryWrites=true&w=majority')
+            self.cluster = MongoClient('mongodb+srv://bentego:CLdCM3U86DOJ56KC@linkedincluster0.wewjcl7.mongodb.net/?retryWrites=true&w=majority')
             self.db = self.cluster['linkedinCluster0']
             self.collection = self.db['info']
+            self.collection.update_one()
+            print("db connection successful")
         except:
             print("Could not connected mongoDB")
 
@@ -21,4 +23,4 @@ class MDB:
             # print(self.linklistFromDB)
         except:
             self.linklistFromDB = []
-# M = MDB() #bir database classının başlatılması
+M = MDB() #bir database classının başlatılması
