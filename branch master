@@ -1,0 +1,83 @@
+[33mcommit 5716b5c4cafbe8f5a88138a57690b5cfd558e89b[m[33m ([m[1;36mHEAD -> [m[1;32merror[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: bunyamin.onum <bunyamin.onum@bentego.com>
+Date:   Mon Jan 23 15:58:01 2023 +0300
+
+    added education info
+
+[33mcommit e4b36da54c368a8192543b112669952c3f434c05[m
+Author: bunyamin.onum <bunyamin.onum@bentego.com>
+Date:   Mon Jan 23 10:30:56 2023 +0300
+
+    added analyses.py module
+
+[33mcommit 135adbe09d2fbcb733d23d0847d06f9546356079[m
+Author: bunyamin.onum <bunyamin.onum@bentego.com>
+Date:   Wed Dec 7 14:20:00 2022 +0300
+
+    fixed database duplicate error
+
+[33mcommit 45c927f98f708294216b6ddf260085563935a2f2[m
+Author: bunyamin.onum <bunyamin.onum@bentego.com>
+Date:   Mon Nov 14 17:48:17 2022 +0300
+
+    made database connection
+
+[33mcommit 18f75054532e61bd838151e5e98694faf4534d41[m
+Author: bunyamin.onum <bunyamin.onum@bentego.com>
+Date:   Thu Nov 10 22:55:41 2022 +0300
+
+    added Person class
+
+[33mcommit bd8a30a037acaa34f357710922ddda8a0d0f1f3d[m
+Author: bunyamin.onum <bunyamin.onum@bentego.com>
+Date:   Thu Nov 10 22:48:57 2022 +0300
+
+    connected to mongodb atlas
+
+[33mcommit 36b3ba200178b4f8dedc86156c0adefd575227be[m
+Author: bunyamin.onum <bunyamin.onum@bentego.com>
+Date:   Thu Nov 10 18:46:09 2022 +0300
+
+    connected to mongodb atlas
+
+[33mcommit ef2e5c9d5ead1b0de8e4f43d3e22e8dd07ccb433[m
+Author: bunyamin.onum <bunyamin.onum@bentego.com>
+Date:   Thu Nov 10 10:23:40 2022 +0300
+
+    deleted experience feature
+
+[33mcommit 9bd227940c9e73b5f9cb88098c365663cbdf8afd[m
+Author: Bünyamin <bunyamin.onum@bentego.com>
+Date:   Thu Nov 10 06:47:49 2022 +0000
+
+    Update info.py
+
+[33mcommit 8082fc9d3e1cfad90cf22fc09356487f60823797[m
+Author: Bünyamin <bunyamin.onum@bentego.com>
+Date:   Thu Nov 10 06:43:32 2022 +0000
+
+    added LANGUAGE feature
+
+[33mcommit c8fb618e2217deba30b147c7e065f063b9fd496a[m
+Author: bunyamin.onum <bunyamin.onum@bentego.com>
+Date:   Wed Nov 9 22:12:52 2022 +0300
+
+    commit sample from git bash
+
+[33mcommit 43f9547ab62ba3d7a54abea2c5e25acb596b4f25[m
+Author: bunyamin.onum <bunyamin.onum@bentego.com>
+Date:   Tue Nov 8 17:10:41 2022 +0300
+
+    removed junk file
+
+[33mcommit 084ba355e018cec6768c8409a6c3857b97899e13[m
+Author: bunyamin.onum <bunyamin.onum@bentego.com>
+Date:   Tue Nov 8 17:08:17 2022 +0300
+
+    removed junk files
+
+[33mcommit 54a234e62ea09eaadac5f0259aae7c7d63fe0802[m
+Author: bunyamin.onum <bunyamin.onum@bentego.com>
+Date:   Tue Nov 8 17:05:08 2022 +0300
+
+    Initial commit
