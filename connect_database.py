@@ -7,10 +7,9 @@ class MDB:
             self.cluster = MongoClient('mongodb+srv://bentego:CLdCM3U86DOJ56KC@linkedincluster0.wewjcl7.mongodb.net/?retryWrites=true&w=majority')
             self.db = self.cluster['linkedinCluster0']
             self.collection = self.db['info']
-            self.collection.update_one()
             print("db connection successful")
-        except:
-            print("Could not connected mongoDB")
+        except Exception as e:
+            print("Could not connected mongoDB", e)
 
 
         # self.collection.drop()
@@ -23,4 +22,4 @@ class MDB:
             # print(self.linklistFromDB)
         except:
             self.linklistFromDB = []
-M = MDB() #bir database classının başlatılması
+# m = MDB()
