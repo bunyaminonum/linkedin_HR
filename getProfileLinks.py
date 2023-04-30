@@ -27,6 +27,7 @@ class GetProfileLinks(Login):
             link = str(link.get('href'))
             parseLink = link.split('/')
             if 'in' in parseLink:
+
                 self.linklist.append(link)
 
     def getSource(self):
