@@ -8,6 +8,7 @@ class MDB:
             self.db = self.cluster['linkedinCluster0']
             self.collection = self.db['info']
             print("db connection successful")
+
         except Exception as e:
             print("Could not connected mongoDB", e)
 
