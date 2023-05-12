@@ -11,7 +11,6 @@ from connect_database import MDB
 import pymongo
 from selenium.common.exceptions import ElementClickInterceptedException, NoSuchElementException
 
-
 class Person:
     def __init__(self):
         self.infoList = {}
@@ -358,6 +357,7 @@ class GetInfo(GetProfileLinks):
             except:
                 pass
         return sklList
+
 
 
 
