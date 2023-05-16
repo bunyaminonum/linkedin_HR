@@ -49,45 +49,65 @@ class FilterGUI:
         self.root = root
         self.filters = []
         self.filter_entries = {}
-
+        self.new_record_window = None
         self.root.title("MongoDB Filter")
         self.root.geometry("800x400")
+        self.db = MDB()
 
-        self.label_field = tk.Label(self.root, text="Field Name:")
+        style = ttk.Style()
+        style.theme_use('clam')  # Modern görünüm için 'clam' temasını kullanabilirsiniz
+
+        self.label_field = ttk.Label(self.root, text="Field Name:")
         self.label_field.pack()
 
         self.field_name = tk.StringVar()
-        self.field_name_entry = tk.Entry(self.root, textvariable=self.field_name)
+        self.field_name_entry = ttk.Entry(self.root, textvariable=self.field_name)
         self.field_name_entry.pack()
 
-        self.label_field_value = tk.Label(self.root, text="Field Value:")
+        self.label_field_value = ttk.Label(self.root, text="Field Value:")
         self.label_field_value.pack()
 
-        self.field_value_entry = tk.Entry(self.root)
+        self.field_value_entry = ttk.Entry(self.root)
         self.field_value_entry.pack()
 
-        self.fields = ["name", "education", "experience", "works_at", "location", "num_followers", "profile_url"]
+        # Diğer widgetlerin ttk versiyonlarını da kullanabilirsiniz
+        self.fields = ["name", "education", "experience", "works_at", "location", "num_followers", "profile_url", 'skills', 'about']
 
-        self.checkbox_frame = tk.Frame(self.root)
+        self.checkbox_frame = ttk.Frame(self.root)
         self.checkbox_frame.pack()
 
         for field in self.fields:
             var = tk.IntVar()
-            checkbox = tk.Checkbutton(self.checkbox_frame, text=field, variable=var)
+            checkbox = ttk.Checkbutton(self.checkbox_frame, text=field, variable=var)
             checkbox.pack(side="left", padx=5, pady=5)
             self.filter_entries[field] = (checkbox, var)
 
-        self.add_filter_button = tk.Button(self.root, text="Add Filter", command=self.add_filter)
-        self.add_filter_button.pack(side="top", padx=5, pady=5)
+        self.button_frame = tk.Frame(self.root)
+        self.button_frame.pack(side="top", padx=10, pady=10)
+
+        self.add_filter_button = tk.Button(self.button_frame, text="Add Filter", command=self.add_filter)
+        self.add_filter_button.pack(side="left", padx=5, pady=5)
 
         self.filter_frame = tk.Frame(self.root)
         self.filter_frame.pack()
 
-        self.filter_button = tk.Button(self.root, text="Filter", command=self.filter_data)
-        self.filter_button.pack(side="top", padx=5, pady=5)
+        self.filter_button = tk.Button(self.button_frame, text="Filter", command=self.filter_data)
+        self.filter_button.pack(side="left", padx=5, pady=5)
 
-        self.all_data_button = tk.Button(self.root, text="All Data", command=self.get_all_data)
-        self.all_data_button.pack()
+        self.all_data_button = tk.Button(self.button_frame, text="All Data", command=self.get_all_data)
+        self.all_data_button.pack(side="left", padx=5, pady=5)
+
+        # add new record
+        self.new_record_button = tk.Button(self.button_frame, text="New Record", command=self.open_new_record_window)
+        self.new_record_button.pack(side="left", padx=5, pady=5)
+
+        # delete record
+        self.delete_button = tk.Button(self.button_frame, text="Delete Record", command=self.delete_record)
+        self.delete_button.pack(side="left", padx=5, pady=5)
+
+        # update record
+        self.update_record_button = tk.Button(self.button_frame, text="Update Record", command=self.update_record)
+        self.update_record_button.pack(side="left", padx=5, pady=5)
 
         self.results_frame = tk.Frame(self.root)
         self.results_frame.pack(fill="both", expand=True)
@@ -107,6 +127,172 @@ class FilterGUI:
 
         self.results_table.pack(side="left", fill="both",expand=True)
         self.results_table.bind("<ButtonRelease-1>", self.copy_selected_row)
+
+    #add new record
+    def open_new_record_window(self):
+        self.new_record_window = tk.Toplevel(self.root)
+        self.new_record_window.title("New Record")
+        self.new_record_window.geometry("600x500")
+        self.new_record_window.geometry("+{}+{}".format(int(self.new_record_window.winfo_screenwidth() / 2 - 200),
+                                                        int(self.new_record_window.winfo_screenheight() / 2 - 175)))
+        self.new_record_window.configure(padx=50, pady=50)
+        label_name = tk.Label(self.new_record_window, text="Name:")
+        label_name.pack()
+        entry_name = tk.Entry(self.new_record_window)
+        entry_name.pack()
+
+        label_education = tk.Label(self.new_record_window, text="Education:")
+        label_education.pack()
+        entry_education = tk.Entry(self.new_record_window)
+        entry_education.pack()
+
+        label_experience = tk.Label(self.new_record_window, text="Experience:")
+        label_experience.pack()
+        entry_experience = tk.Entry(self.new_record_window)
+        entry_experience.pack()
+
+        label_works_at = tk.Label(self.new_record_window, text="Works At:")
+        label_works_at.pack()
+        entry_works_at = tk.Entry(self.new_record_window)
+        entry_works_at.pack()
+
+        label_location = tk.Label(self.new_record_window, text="Location:")
+        label_location.pack()
+        entry_location = tk.Entry(self.new_record_window)
+        entry_location.pack()
+
+        label_num_followers = tk.Label(self.new_record_window, text="Num Followers:")
+        label_num_followers.pack()
+        entry_num_followers = tk.Entry(self.new_record_window)
+        entry_num_followers.pack()
+
+        label_profile_url = tk.Label(self.new_record_window, text="Profile URL:")
+        label_profile_url.pack()
+        entry_profile_url = tk.Entry(self.new_record_window)
+        entry_profile_url.pack()
+
+        label_about = tk.Label(self.new_record_window, text="About:")
+        label_about.pack()
+        entry_about = tk.Entry(self.new_record_window)
+        entry_about.pack()
+
+        label_skills = tk.Label(self.new_record_window, text="Skills:")
+        label_skills.pack()
+        entry_skills = tk.Entry(self.new_record_window)
+        entry_skills.pack()
+
+        save_button = tk.Button(self.new_record_window, text="Save",
+                                command=lambda: self.save_record(entry_name.get(), entry_education.get(),
+                                                                 entry_experience.get(), entry_works_at.get(),
+                                                                 entry_location.get(), entry_num_followers.get(),
+                                                                 entry_profile_url.get(), entry_about.get(),
+                                                                 entry_skills.get()))
+        save_button.pack()
+
+    #delete record
+    def delete_record(self):
+        selected_item = self.results_table.focus()
+        if selected_item:
+            profile_url = self.results_table.item(selected_item)["values"][self.fields.index("profile_url")]
+
+
+            # Confirm dialog
+            confirmation = messagebox.askquestion("Confirmation", "Are you sure you want to delete this record?")
+            if confirmation == "yes":
+
+                # Delete the record
+                self.db.collection.delete_one({"profile_url": profile_url})
+
+
+                messagebox.showinfo("Success", "Record deleted successfully.")
+                self.get_all_data()  # Refresh the results table
+            else:
+                messagebox.showinfo("Cancelled", "Deletion cancelled.")
+        else:
+            messagebox.showinfo("Warning", "No record selected.")
+
+    #update record
+    def update_record(self):
+        selected_item = self.results_table.focus()
+        if not selected_item:
+            messagebox.showinfo("Uyarı", "Güncellenecek bir kayıt seçilmedi.")
+            return
+
+        values = self.results_table.item(selected_item, "values")
+        if len(values) <= 1:
+            messagebox.showinfo("Uyarı", "Güncellenecek bir kayıt seçilmedi.")
+            return
+
+        # Seçilen kaydın verilerini al
+        record_id = values[0]
+        record_values = values[1:]
+
+        # Eski verileri içerecek olan pencereyi aç
+        update_window = tk.Toplevel(self.root)
+        update_window.title("Update Record")
+        update_window.geometry("400x300")
+        update_window.geometry(
+            "+{}+{}".format(int(update_window.winfo_screenwidth() / 2 - 200),
+                            int(update_window.winfo_screenheight() / 2 - 150)))
+        update_window.configure(padx=50, pady=50)
+
+        # Kayıt alanlarını düzenlemek için etiketler ve giriş kutuları oluştur
+        entry_values = []
+        for i, field_name in enumerate(self.fields, start=1):
+            label = tk.Label(update_window, text=field_name.capitalize() + ":")
+            label.pack()
+            entry = tk.Entry(update_window)
+            entry.pack()
+            entry.insert(0, record_values[i - 1])
+            entry_values.append(entry)
+
+        # Güncelleme işlemini gerçekleştiren metodu tanımla
+        def perform_update():
+            db = MDB()
+            # Güncellenecek verileri al
+            updated_values = [entry.get() for entry in entry_values]
+
+            # Güncellenecek kaydın profil URL'sini al
+            profile_url = record_values[-1]
+
+            # Veritabanında kaydı güncelle
+            result = db.collection.update_one({"profile_url": profile_url},
+                                              {"$set": dict(zip(self.fields, updated_values))})
+
+            if result.modified_count > 0:
+                messagebox.showinfo("Başarılı", "Kayıt güncellendi.")
+                update_window.destroy()
+                self.get_all_data()
+            else:
+                messagebox.showinfo("Uyarı", "Kayıt güncellenirken bir hata oluştu.")
+
+        # Enter tuşuna basıldığında güncelleme işlemini yap
+        update_window.bind("<Return>", lambda event: perform_update())
+
+        # Güncelleme işlemini gerçekleştirecek olan düğmeyi oluştur
+        update_button = tk.Button(update_window, text="Güncelle", command=perform_update)
+        update_button.pack()
+
+    def save_record(self, name, education, experience, works_at, location, num_followers, profile_url, about, skills):
+        collection = self.db.collection
+
+        new_record = {
+            "name": name,
+            "education": education,
+            "experience": experience,
+            "works_at": works_at,
+            "location": location,
+            "num_followers": num_followers,
+            "profile_url": profile_url,
+            "about": about,
+            "skills": skills
+        }
+
+        collection.insert_one(new_record)
+
+        messagebox.showinfo("Success", "New record saved successfully.")
+
+        self.new_record_window.destroy()
 
     def get_all_data(self):
         filter_obj = MongoDBFilter()
