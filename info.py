@@ -11,6 +11,36 @@ from connect_database import MDB
 import pymongo
 from selenium.common.exceptions import ElementClickInterceptedException, NoSuchElementException
 
+class Person:
+    def __init__(self):
+        self.infoList = {}
+
+    def setName(self, name:dict):
+        self.infoList.update(name)
+        print(self.infoList)
+    def setLocation(self, loc:dict):
+        self.infoList.update(loc)
+
+    def setWorksAt(self, worksAt:dict):
+        self.infoList.update(worksAt)
+
+    def setId(self, _id:dict):
+        self.infoList.update(_id)
+
+    def setConnectionNum(self, con_num:dict):
+        self.infoList.update(con_num)
+    # def setLink(self, link:dict):
+    #     self.infoList.update(link)
+
+    def setEducation(self, edu:dict):
+        self.infoList.update(edu)
+
+    def setDescription(self, desc:dict):
+        self.infoList.update(desc)
+
+    def setSkills(self, skills:dict):
+        self.infoList.update(skills)
+
 
 
 class GetInfo(GetProfileLinks):
