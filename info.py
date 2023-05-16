@@ -11,36 +11,6 @@ from connect_database import MDB
 import pymongo
 from selenium.common.exceptions import ElementClickInterceptedException, NoSuchElementException
 
-class Person:
-    def __init__(self):
-        self.infoList = {}
-
-    def setName(self, name:dict):
-        self.infoList.update(name)
-        print(self.infoList)
-    def setLocation(self, loc:dict):
-        self.infoList.update(loc)
-
-    def setWorksAt(self, worksAt:dict):
-        self.infoList.update(worksAt)
-
-    def setId(self, _id:dict):
-        self.infoList.update(_id)
-
-    def setConnectionNum(self, con_num:dict):
-        self.infoList.update(con_num)
-    # def setLink(self, link:dict):
-    #     self.infoList.update(link)
-
-    def setEducation(self, edu:dict):
-        self.infoList.update(edu)
-
-    def setDescription(self, desc:dict):
-        self.infoList.update(desc)
-
-    def setSkills(self, skills:dict):
-        self.infoList.update(skills)
-
 
 
 class GetInfo(GetProfileLinks):
@@ -138,6 +108,7 @@ class GetInfo(GetProfileLinks):
                     personInfo['education'].extend(education_list)
                     personInfo['experience'].extend(experience_list)
                     personInfo['skills'] = self.skills(profile_link)
+                    personInfo['about'] = self.about(profile_link)
                     self.db.collection.insert_one(personInfo)
                     # print(personInfo)
                     print("Name -->", name,
@@ -146,7 +117,8 @@ class GetInfo(GetProfileLinks):
                           "\nnum followers -->", follow,
                           f"\neducation {personInfo['education']},"
                           f"\nexperience {personInfo['experience']},"
-                          f"\nskills {personInfo['skills']}")
+                          f"\nskills {personInfo['skills']}",
+                          f"\n about {personInfo['about']}")
 
                 else:
                     continue
@@ -359,6 +331,23 @@ class GetInfo(GetProfileLinks):
         return sklList
 
 
+    def about(self, profile_link):
+        src = self.get_src(profile_link)
+        soup = BeautifulSoup(src, 'lxml')
+        languages_h2 = soup.findAll("h2")
+        if len(languages_h2) != 0:
+            for i in languages_h2:
+                try:
+                    i = i.find('span', {'class', 'visually-hidden'})
+                    if i.text == 'About':
+                        about = i.find_all_next()
+                        for i in about:
+                            return i.text.strip()
+                            break
+                except:
+                    pass
+        else:
+            about = None
 
 
 
