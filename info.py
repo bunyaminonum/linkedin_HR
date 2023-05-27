@@ -442,6 +442,3 @@ class GetInfo(GetProfileLinks):
                     pass
         else:
             about = None
-
-# i  = GetInfo('19701023@mersin.edu.tr', '19074747fb')
-# i.start()
