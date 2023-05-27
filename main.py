@@ -1,6 +1,7 @@
 from info import GetInfo
 import tkinter as tk
 from tkinter import messagebox
+from change_working_time import WorkingTimeUpdater
 
 class LinkedInScraperGUI:
     def __init__(self):
@@ -34,15 +35,18 @@ class LinkedInScraperGUI:
         self.password_entry = tk.Entry(self.root, show="*", width=30)
         self.password_entry.pack()
 
-        # Başlat düğmesi
+        # Başlat ve durdur düğmeleri
         self.start_button = tk.Button(self.root, text="Başlat", command=self.start_scraper, state="disabled")
         self.start_button.pack()
+
+        self.stop_button = tk.Button(self.root, text="Durdur", command=self.stop_scraper, state="disabled")
+        self.stop_button.pack()
 
         # Entry kutuları izleme
         self.email_entry.bind("<KeyRelease>", self.check_entry_fields)
         self.password_entry.bind("<KeyRelease>", self.check_entry_fields)
 
-    def check_entry_fields(self, event):
+    def check_entry_fields(self, event=None):
         # Giriş kutularının boş olup olmadığını kontrol et
         email = self.email_entry.get()
         password = self.password_entry.get()
@@ -52,22 +56,36 @@ class LinkedInScraperGUI:
         else:
             self.start_button.config(state="disabled")
 
+        if self.start_button["state"] == "normal":
+            self.stop_button.config(state="normal")
+        else:
+            self.stop_button.config(state="disabled")
+
     def start_scraper(self):
         email = self.email_entry.get()
         password = self.password_entry.get()
 
-        if not email or not password:
-            tk.messagebox.showerror("Hata", "Email ve password alanı boş olamaz!")
-            return
+        try:
+            if not email or not password:
+                tk.messagebox.showerror("Hata", "Email ve password alanı boş olamaz!")
+                return
 
-        # LinkedIn Scraper nesnesini oluştur
-        scraper = GetInfo(email, password)
+            # LinkedIn Scraper nesnesini oluştur
+            self.scraper = GetInfo(email, password, 10)
 
-        # İşlemi başlat
-        scraper.start()
+            # İşlemi başlat
+            self.scraper.start()
 
-        # İşlem tamamlandığında bilgi mesajı göster
-        tk.messagebox.showinfo("LinkedIn Scraper", "Scraper tamamlandı!")
+            # İşlem tamamlandığında bilgi mesajı göster
+            tk.messagebox.showinfo("LinkedIn Scraper", "Scraper tamamlandı!")
+        except:
+            pass
+        finally:
+            updater = WorkingTimeUpdater()
+            updater.run()
+    def stop_scraper(self):
+        if self.scraper is not None:
+            self.scraper.stop()
 
     def run(self):
         self.root.mainloop()
@@ -77,3 +95,4 @@ class LinkedInScraperGUI:
 if __name__ == "__main__":
     gui = LinkedInScraperGUI()
     gui.run()
+

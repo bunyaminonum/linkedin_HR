@@ -5,13 +5,6 @@ from connect_database import MDB
 import tkinter.messagebox as messagebox
 
 
-import tkinter as tk
-from pymongo import MongoClient
-import tkinter as tk
-from tkinter import ttk
-from pymongo import MongoClient
-from connect_database import MDB
-
 
 
 class MongoDBFilter:
@@ -32,6 +25,7 @@ class MongoDBFilter:
                 # Geçerli bir aralık belirtilmediyse veya hatalı bir değer girildiyse hata mesajı gösterilebilir veya isteğe bağlı olarak başka bir işlem yapılabilir.
                 print("Geçersiz num_followers aralığı. Geçerli bir aralık belirtin (örn. 500-1000).")
         else:
+
             self.filters[field_name] = {'$regex': filter_value, '$options': 'i'}
 
     def add_field(self, field_name):
@@ -71,7 +65,7 @@ class FilterGUI:
         self.field_value_entry.pack()
 
         # Diğer widgetlerin ttk versiyonlarını da kullanabilirsiniz
-        self.fields = ["name", "education", "experience", "works_at", "location", "num_followers", "profile_url", 'skills', 'about']
+        self.fields = ["name", "education", "experience", "works_at", "location", "num_followers", "profile_url", 'skills', 'about', 'total_working_time']
 
         self.checkbox_frame = ttk.Frame(self.root)
         self.checkbox_frame.pack()

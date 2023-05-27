@@ -19,7 +19,7 @@ class MDB:
             self.linklistFromDB = []
             data = self.collection.find({})
             for i in data:
-                self.linklistFromDB.append(i['_id'])
+                self.linklistFromDB.append(i['profile_url'])
             # print(self.linklistFromDB)
         except:
             self.linklistFromDB = []

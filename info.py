@@ -61,7 +61,7 @@ class GetInfo(GetProfileLinks):
         # self.personInfo = []
         self.person = Person()
     def start(self):
-        self.getLink()
+        self.scrape_and_save_person_info()
 
     def getInfo(self):
         pass
@@ -77,56 +77,63 @@ class GetInfo(GetProfileLinks):
         attr = self.db.collection.find({})
         for i in attr:
             self.linkListFromDB.append(i['_id'])
-            
-    def getLink(self):
+
+    def scrape_and_save_person_info(self):
+        """
+        This function iterates over the given link list.
+        It retrieves and saves person information for each link to the database.
+
+        Returns:
+            None
+        """
         try:
             for link in self.linklist:
                 personInfo = {
                     'education': [],
                     'experience': []
                 }
-                linkInfo = self.db.collection.find_one({'_id':link})
+                linkInfo = self.db.collection.find_one({'profile_url': link})
+                # print(linkInfo)
                 if link not in self.db.linklistFromDB:
                     self.driver.get(link)
                     self.driver.implicitly_wait(10)
                     time.sleep(2)
-                    profile_link = self.driver.current_url #must used for access to education and experience pages
-                    self.person.setId({'_id':link})
+                    profile_link = self.driver.current_url  # Must be used to access education and experience pages
+                    self.person.setId({'_id': link})
                     src = self.driver.page_source
 
                     soup = BeautifulSoup(src, 'lxml')
-                    # print(soup)
                     intro = soup.find('div', {'class': 'pv-text-details__left-panel'})
-                    # self.person.setLink({'link':link})
+
                     try:
                         name_loc = intro.find("h1")
                         name = name_loc.get_text().strip()
-                        self.person.setName({'name':name})
+                        self.person.setName({'name': name})
                     except:
                         name_loc = ''
 
                     try:
                         works_at_loc = intro.find("div", {'class': 'text-body-medium'})
                         works_at = works_at_loc.get_text().strip()
-                        self.person.setWorksAt({'works at' : works_at})
+                        self.person.setWorksAt({'works at': works_at})
 
                     except:
                         works_at_loc = ''
 
                     try:
                         location = self.driver.find_element_by_xpath(self.LOC_XPATH).text
-                        self.person.setLocation({'location' : location})
+                        self.person.setLocation({'location': location})
                     except NoSuchElementException:
                         location = ''
 
                     try:
                         follow = self.driver.find_element_by_class_name(self.FOLLOWERS).text
-                        follow = float(str(follow).split()[0].strip().replace(',','.'))
-                        self.person.setConnectionNum({'num followers':follow})
+                        follow = float(str(follow).split()[0].strip().replace(',', '.'))
+                        self.person.setConnectionNum({'num followers': follow})
                     except NoSuchElementException:
                         follow = ''
 
-                    #Education
+                    # Education
                     education_list = self.education(profile_link)
                     experience_list = self.experience(profile_link)
 
@@ -140,7 +147,7 @@ class GetInfo(GetProfileLinks):
                     personInfo['skills'] = self.skills(profile_link)
                     personInfo['about'] = self.about(profile_link)
                     self.db.collection.insert_one(personInfo)
-                    # print(personInfo)
+
                     print("Name -->", name,
                           "\nWorks At -->", works_at,
                           "\nLocation -->", location,
@@ -149,39 +156,50 @@ class GetInfo(GetProfileLinks):
                           f"\nexperience {personInfo['experience']},"
                           f"\nskills {personInfo['skills']}",
                           f"\n about {personInfo['about']}")
-
                 else:
                     continue
-                      # "\nnumber of connection -->", num_connection)
         except pymongo.errors.DuplicateKeyError:
             print("duplicate error!")
 
     def scroll_down(self):
+        """
+        This function scrolls down the web page by repeatedly executing JavaScript to scroll to the bottom.
+        It waits for the page to load after each scroll and stops scrolling when the page height no longer increases.
+
+        Returns:
+            None
+        """
         SCROLL_PAUSE_TIME = 3
         last_height = self.driver.execute_script("return document.body.scrollHeight")
         for i in range(3):
-            # scroll down to bottom
+            # Scroll down to the bottom of the page
             self.driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
 
-            # wait for load page
+            # Wait for the page to load
             time.sleep(SCROLL_PAUSE_TIME)
 
             new_height = self.driver.execute_script("return document.body.scrollHeight")
             if new_height == last_height:
+                # Reached the end of the page, stop scrolling
                 break
             last_height = new_height
 
     def education(self, profile_link):
         """
-        takes 1 parameter and returns the result
-        param: profile_link
-        return: education info list
+        Retrieves education information from the given profile link.
+
+        Args:
+            profile_link (str): The profile link of the person.
+
+        Returns:
+            list: A list of dictionaries containing education details.
+                  Each dictionary contains the school, department, and graduation date.
         """
         infoList = []
         edu_link = f'{profile_link}details/education'
         src = self.get_src(edu_link)
         soup = BeautifulSoup(src, 'lxml')
-        # print(soup)
+
         try:
             eduli = soup.find('div', {'class': 'pvs-list__container'})
             eduli = eduli.findAll('li')
@@ -206,13 +224,14 @@ class GetInfo(GetProfileLinks):
             except:
                 graduate_date = ''
 
-            info ={
-                    'school'        : school,
-                    'department'    : department,
-                    'graduate_date' : graduate_date
+            info = {
+                'school': school,
+                'department': department,
+                'graduate_date': graduate_date
             }
             if school != '' and department != '' and graduate_date != '':
                 infoList.append(info)
+
         return infoList
 
 
@@ -220,6 +239,15 @@ class GetInfo(GetProfileLinks):
         pass
 
     def get_src(self, link):
+        """
+        Retrieves the page source of the given link using the web driver.
+
+        Args:
+            link (str): The link of the page to retrieve the source from.
+
+        Returns:
+            str: The page source of the given link.
+        """
         self.driver.get(link)
         wait = WebDriverWait(self.driver, 10)
         wait.until(EC.presence_of_element_located((By.TAG_NAME, "body")))
@@ -227,17 +255,37 @@ class GetInfo(GetProfileLinks):
         src = self.driver.page_source
         return src
 
-    def get_src_with_scroll(self, link, is_scroll:bool):
+    def get_src_with_scroll(self, link, is_scroll: bool):
+        """
+        Retrieves the page source of the given link using the web driver.
+
+        Args:
+            link (str): The link of the page to retrieve the source from.
+            is_scroll (bool): A flag indicating whether to perform scrolling or not.
+
+        Returns:
+            tuple: A tuple containing the page source and the current URL.
+        """
         self.driver.get(link)
         wait = WebDriverWait(self.driver, 5)
         wait.until(EC.presence_of_element_located((By.TAG_NAME, "body")))
         time.sleep(1)
         current_url = self.driver.current_url
-        self.scroll_down() if is_scroll else None
+        if is_scroll:
+            self.scroll_down()
         src = self.driver.page_source
         return src, current_url
 
     def experience(self, profile_link):
+        """
+        Retrieves experience information from the given profile link.
+
+        Args:
+            profile_link (str): The profile link of the person.
+
+        Returns:
+            list: A list of dictionaries containing experience details.
+        """
         experience_link = f'{profile_link}details/experience'
         src = self.get_src(experience_link)
         soup = BeautifulSoup(src, 'lxml')
@@ -250,16 +298,24 @@ class GetInfo(GetProfileLinks):
         cn = None
 
         def is_there_link(li, driver):
+            """
+            Checks if there is a link within the given list item and extracts relevant information.
+
+            Args:
+                li (bs4.element.Tag): The list item element to check for a link.
+                driver: The Selenium web driver.
+
+            Returns:
+                list: A list of dictionaries containing extracted information.
+            """
             company = li.find('a', {'class': 'optional-action-target-wrapper display-flex flex-column full-width'})
             if company is not None:
                 cn = company_name(li, driver)
                 lilist = li.findAll('li', {'class': 'pvs-list__paged-list-item'})
                 for myli in lilist:
-
                     try:
                         field = myli.find('span', {'class': 'mr1 hoverable-link-text t-bold'})
                         field = field.find('span', {'class': 'visually-hidden'}).text
-                    #                 print(department)
                     except:
                         pass
 
@@ -271,7 +327,7 @@ class GetInfo(GetProfileLinks):
                         pass
 
                     finally:
-                        if field != None and date != None:
+                        if field is not None and date is not None:
                             expInfo = {'company_name': cn, 'field': field, 'date': date, 'working_time': working_time}
                             if expInfo not in infoList:
                                 infoList.append(expInfo)
@@ -326,27 +382,26 @@ class GetInfo(GetProfileLinks):
         return infoList
 
     def skills(self, profile_link):
+        """
+        Retrieves the skills from the given profile link.
+
+        Args:
+            profile_link (str): The profile link of the person.
+
+        Returns:
+            list: A list of skills.
+        """
         sklList = []
 
-        src, current_url = self.get_src_with_scroll(profile_link, is_scroll = False)
+        src, current_url = self.get_src_with_scroll(profile_link, is_scroll=False)
         skillUrl = f'{current_url}details/skills'
         self.driver.get(skillUrl)
         wait = WebDriverWait(self.driver, 5)
-        #####  sometimes showed button of "show more skills". If you see it you can following code:
-        #####  important: if you will use following code you must find button which name of "show more skills" class name.
-        # while True:
-        #     try:
-        #         time.sleep(1)
-        #         container = self.driver.find_element_by_class_name("pvs-list__container")
-        #         button = container.find_element_by_tag_name('button').find_element_by_class_name('show-more-class-name') #it doesnt work
-        #         button.click()
-        #     except (ElementClickInterceptedException, NoSuchElementException):
-        #         break
 
         self.scroll_down()
         src = self.driver.page_source
         soup = BeautifulSoup(src, 'lxml')
-        # self.scroll_down()
+
         container = soup.find('div', {'class': 'artdeco-tabpanel active ember-view'})
         lilist = container.findAll('li')
 
@@ -358,17 +413,26 @@ class GetInfo(GetProfileLinks):
                     sklList.append(skill.text)
             except:
                 pass
+
         return sklList
 
-
     def about(self, profile_link):
+        """
+        Retrieves the "About" section from the given profile link.
+
+        Args:
+            profile_link (str): The profile link of the person.
+
+        Returns:
+            str: The extracted "About" section text, or None if not found.
+        """
         src = self.get_src(profile_link)
         soup = BeautifulSoup(src, 'lxml')
         languages_h2 = soup.findAll("h2")
         if len(languages_h2) != 0:
             for i in languages_h2:
                 try:
-                    i = i.find('span', {'class', 'visually-hidden'})
+                    i = i.find('span', {'class': 'visually-hidden'})
                     if i.text == 'About':
                         about = i.find_all_next()
                         for i in about:
@@ -379,5 +443,5 @@ class GetInfo(GetProfileLinks):
         else:
             about = None
 
-
-
+# i  = GetInfo('19701023@mersin.edu.tr', '19074747fb')
+# i.start()
