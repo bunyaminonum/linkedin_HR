@@ -95,5 +95,3 @@ class WorkingTimeUpdater:
             # Save the updated document
             self.users_collection.replace_one({"_id": user["_id"]}, user)
 
-c = WorkingTimeUpdater()
-c.run()
